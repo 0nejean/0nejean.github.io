@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@import "reset", "index";
+
+* {
+  font-family: "Pretendard";
+  background-color: var(--main-bg-color);
+  color: var(--main-font-color);
+  scroll-behavior: smooth;
+}
+
+:root {
+  --main-bg-color: white;
+  --main-bg-color2: black;
+  --main-bg-color3: white;
+  --main-font-color: black;
+}
+
+.container {
+  padding: 1%;
+  h2 {
+    position: absolute;
+    text-indent: -9999px;
+  }
+}
