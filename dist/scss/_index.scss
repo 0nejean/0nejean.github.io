@@ -129,7 +129,7 @@
     top: 35%;
     left: 2%;
     color: transparent;
-    -webkit-text-stroke: 0.0625rem var(--main-bg-color2);
+    -webkit-text-stroke: 0.125rem var(--main-bg-color2);
     font-size: 100px;
   }
   .main_img {
@@ -373,4 +373,24 @@
     font-size: 16px;
     font-weight: 300;
   }
+}
+
+// *************** INTERACTIVE ***************
+//WEB
+@media screen and (min-width: 1440px) and (max-width: 1980px) {
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1440px) {
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+}
+//TABLET
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+}
+//MOBILE
+@media screen and (min-width: 480px) and (max-width: 767px) {
+}
+
+@media screen and (min-width: 320px) and (max-width: 479px) {
 }
