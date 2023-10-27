@@ -175,7 +175,10 @@
           width: 20%;
         }
         &:nth-child(2) {
+          text-indent: -9999px;
           width: 50%;
+          // background: url(../images/s2_techstack_mobile.jpg) 100% 50% / cover
+          //   no-repeat;
         }
         &:nth-child(3) {
           width: 32%;
@@ -784,6 +787,132 @@
 
 //MOBILE
 @media screen and (max-width: 480px) {
+  #hook {
+    #header {
+      .nav {
+        .nav-bar_ul {
+          justify-content: center;
+        }
+      }
+    }
+    .hook_copy {
+      font-size: 3rem;
+      top: 20%;
+      left: 12%;
+      text-align: center;
+    }
+    .hook_letter {
+      top: 21%;
+      font-size: 12px;
+      left: 12%;
+      text-align: center;
+    }
+    .hook_img {
+      width: 400px;
+      height: 300px;
+    }
+    #footer_top {
+      text-align: center;
+      font-size: 11.5px;
+      font-weight: 200;
+      padding: 30vh 0 0 0%;
+    }
+  }
+  #main {
+    .main_name {
+      font-size: 55px;
+      left: 6%;
+    }
+    .main_portfolio {
+      font-size: 55px;
+      top: 19.5%;
+      left: 6%;
+    }
+    .main_img {
+      width: 400px;
+      height: 250px;
+      right: 7%;
+      bottom: 0%;
+    }
+  }
+  #about {
+    .about_top {
+      .swiper {
+        .swiper-slide:first-child {
+          width: 80%;
+        }
+        .swiper-slide:nth-child(2) {
+          width: 80%;
+        }
+        .swiper-slide:nth-child(3) {
+          width: 80%;
+        }
+        .swiper-slide:nth-child(4) {
+          width: 80%;
+        }
+        .swiper-slide:nth-child(5) {
+          width: 80%;
+        }
+      }
+      .swiper-slide {
+        .s2_techstack {
+          position: relative;
+          &::before {
+            position: absolute;
+            z-index: 1;
+            content: "";
+            background: url(../images/s2_techstack_mobile.jpg) 50% 50% / cover
+              no-repeat;
+          }
+        }
+      }
+    }
+    .about_bottom {
+      .about_img {
+        width: 500px;
+        right: 43%;
+      }
+    }
+  }
+  #work {
+    .work_top {
+      .work_container {
+        .work4_lazuli {
+          img {
+            width: 90px;
+          }
+        }
+      }
+    }
+    .work_bottom {
+      .work_img {
+        width: 500px;
+        left: -47%;
+      }
+    }
+  }
+  #contact {
+    .contact_salute {
+      font-size: 2rem;
+      left: 6%;
+    }
+    .salute_line {
+      left: 36.3%;
+      height: 4.5rem;
+      width: 0.3rem;
+    }
+    .contact_pagelogo {
+      font-size: 50px;
+      left: 7%;
+      top: 37%;
+    }
+    .contact_img {
+      right: 7%;
+      width: 450px;
+      height: 350px;
+    }
+  }
 }
+
 @media screen and (max-width: 320px) {
 }
