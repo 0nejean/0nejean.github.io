@@ -418,7 +418,7 @@
           width: 55%;
         }
         .swiper-slide:nth-child(3) {
-          width: 34%;
+          width: 40%;
         }
         .swiper-slide:nth-child(4) {
           width: 40%;
@@ -462,7 +462,7 @@
           width: 60%;
         }
         .swiper-slide:nth-child(3) {
-          width: 40%;
+          width: 43%;
         }
         .swiper-slide:nth-child(4) {
           width: 43%;
@@ -563,6 +563,10 @@
     .contact_salute {
       font-size: 2.5rem;
     }
+    .salute_line {
+      left: 15.9%;
+      height: 6rem;
+    }
     .contact_pagelogo {
       top: 30%;
       font-size: 5.625rem;
@@ -571,11 +575,130 @@
 }
 
 @media screen and (max-width: 1024px) {
+  #hook {
+    #header {
+      .nav {
+        .nav-bar_ul {
+          .nav-bar_li {
+            padding: 0 3% 0 0;
+          }
+        }
+      }
+    }
+    .hook_copy {
+      font-size: 5rem;
+      left: 3%;
+    }
+    .hook_letter {
+      top: 6%;
+      left: 4%;
+      font-size: 1rem;
+    }
+    .hook_img {
+      width: 600px;
+      height: 450px;
+    }
+    #footer_top {
+      font-size: 13.5px;
+      padding: 82vh 0 0 2%;
+    }
+  }
+  #main {
+    .main_img {
+      width: 550px;
+      height: 350px;
+      right: 10%;
+    }
+    .main_name {
+      font-size: 75px;
+      left: 3%;
+    }
+    .main_portfolio {
+      font-size: 75px;
+      left: 3%;
+    }
+  }
+  #about {
+    .about_top {
+      .swiper {
+        .swiper-slide:first-child {
+          width: 35%;
+        }
+        .swiper-slide:nth-child(2) {
+          width: 100%;
+        }
+        .swiper-slide:nth-child(3) {
+          width: 60%;
+        }
+        .swiper-slide:nth-child(4) {
+          width: 60%;
+        }
+        .swiper-slide:nth-child(5) {
+          width: 50%;
+        }
+      }
+    }
+    .about_bottom {
+      .about_img {
+        width: 550px;
+        height: 350px;
+        right: 25%;
+      }
+      .about_pagelogo {
+        font-size: 2.5rem;
+      }
+    }
+  }
+  #work {
+    .work_top {
+      .work_container {
+        img {
+          width: 200px;
+          height: 180px;
+        }
+        .work4_lazuli {
+          padding: 3.75rem 0 3.5rem 0;
+          img {
+            height: 170px;
+          }
+        }
+      }
+    }
+    .work_bottom {
+      .work_img {
+        bottom: 0%;
+        width: 34.375rem;
+        height: 350px;
+      }
+      .work_pagelogo {
+        font-size: 2.5rem;
+      }
+    }
+  }
+
+  #contact {
+    .contact_salute {
+      left: 3%;
+    }
+    .salute_line {
+      left: 20.5%;
+    }
+    .contact_pagelogo {
+      font-size: 75px;
+      left: 3%;
+    }
+    .contact_img {
+      bottom: 0%;
+      width: 600px;
+      height: 450px;
+    }
+  }
 }
 
 //TABLET
 @media screen and (max-width: 768px) {
 }
+
 //MOBILE
 @media screen and (max-width: 480px) {
 }
