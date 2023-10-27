@@ -126,6 +126,7 @@
   }
   .main_portfolio {
     position: absolute;
+    z-index: 1;
     top: 35%;
     left: 2%;
     color: transparent;
@@ -344,6 +345,7 @@
   }
   .contact_pagelogo {
     position: absolute;
+    z-index: 1;
     top: 35%;
     left: 2%;
     font-family: Notable;
@@ -377,20 +379,53 @@
 
 // *************** INTERACTIVE ***************
 //WEB
-@media screen and (min-width: 1440px) and (max-width: 1980px) {
+@media screen and (max-width: 1680px) {
+  #about {
+    .about_top {
+      height: 52%;
+      .swiper {
+        .swiper-slide:first-child {
+          width: 25%;
+        }
+        .swiper-slide:nth-child(2) {
+          width: 55%;
+        }
+        .swiper-slide:nth-child(3) {
+          width: 34%;
+        }
+        .swiper-slide:nth-child(4) {
+          width: 40%;
+        }
+        .swiper-slide:nth-child(5) {
+          width: 30%;
+        }
+      }
+    }
+    .about_bottom {
+      height: 48%;
+      .about_img {
+        left: 30%;
+      }
+      .about_pagelogo {
+        right: -68%;
+      }
+    }
+  }
 }
 
-@media screen and (min-width: 1280px) and (max-width: 1440px) {
+@media screen and (max-width: 1440px) {
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (max-width: 1280px) {
 }
+@media screen and (max-width: 1024px) {
+}
+
 //TABLET
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
 }
 //MOBILE
-@media screen and (min-width: 480px) and (max-width: 767px) {
+@media screen and (max-width: 480px) {
 }
-
-@media screen and (min-width: 320px) and (max-width: 479px) {
+@media screen and (max-width: 320px) {
 }
