@@ -3,16 +3,16 @@
 // HOOK
 #hook {
   position: relative;
-  border: 0.0625rem solid var(--main-bg-color2);
+  border: 1px solid var(--main-bg-color2);
   height: 97vh;
   width: 100%;
   overflow: hidden;
   #header {
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 300;
     width: 100%;
-    height: 80px;
+    height: 5rem;
     .nav {
       width: 100%;
       height: 100%;
@@ -52,12 +52,17 @@
     color: var(--main-font-color);
   }
   .hook_img {
+    display: block;
+    text-indent: -624.9375rem;
     position: absolute;
     bottom: -1%;
     right: 2%;
+    background: url(../images/hookimage.png) 0 0 / cover no-repeat;
+    width: 46.875rem;
+    height: 37.5rem;
   }
   #footer_top {
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 300;
     padding: 81vh 0 0 2%;
   }
@@ -66,14 +71,14 @@
 // MAIN
 #main {
   position: relative;
-  border: 0.0625rem solid var(--main-bg-color2);
+  border: 1px solid var(--main-bg-color2);
   margin-top: 0.5%;
   height: 95vh;
   width: 100%;
   overflow: hidden;
   @keyframes move {
     100% {
-      transform: translate3d(0, 0, -62.5rem);
+      transform: translate3d(0, 0, -1000px);
     }
   }
   .bubble-container {
@@ -84,11 +89,11 @@
   }
   .bubble-wrap {
     margin: 0 auto;
-    width: 31.25rem;
-    height: 31.25rem;
+    width: 500px;
+    height: 500px;
     transform-style: preserve-3d;
     transform-origin: center center;
-    perspective: 37.5rem;
+    perspective: 600px;
   }
   .bubble {
     position: absolute;
@@ -105,9 +110,9 @@
       width: $size;
       animation-delay: -$i * 0.2s;
       transform: translate3d(
-        (random(1000) * 0.0625rem),
-        (random(1000) * 0.0625rem),
-        (random(2000) * 0.0625rem)
+        (random(1000) * 1px),
+        (random(1000) * 1px),
+        (random(2000) * 1px)
       );
       background: hsl(random(360), 70%, 50%);
     }
@@ -122,7 +127,7 @@
     position: absolute;
     top: 2%;
     left: 2%;
-    font-size: 100px;
+    font-size: 6.25rem;
   }
   .main_portfolio {
     position: absolute;
@@ -130,31 +135,36 @@
     top: 35%;
     left: 2%;
     color: transparent;
-    -webkit-text-stroke: 0.125rem var(--main-bg-color2);
-    font-size: 100px;
+    -webkit-text-stroke: 2px var(--main-bg-color2);
+    font-size: 6.25rem;
   }
   .main_img {
+    display: block;
+    text-indent: -624.9375rem;
     position: absolute;
     bottom: -1%;
     right: 10%;
+    background: url(../images/mainimage.png) 0 0 / cover no-repeat;
+    width: 46.875rem;
+    height: 31.25rem;
   }
 }
 
 // ABOUT
 #about {
-  border: 0.0625rem solid var(--main-bg-color2);
+  border: 1px solid var(--main-bg-color2);
   margin-top: 0.5%;
   height: 97vh;
   width: 100%;
   overflow: hidden;
   .about_top {
     position: relative;
-    height: 50%;
+    height: 52%;
     .swiper {
       width: 100%;
       height: 100%;
       .swiper-slide {
-        border: 0.0625rem solid var(--main-bg-color2);
+        border: 1px solid var(--main-bg-color2);
         margin-top: 65px;
         height: 400px;
         background: #fff;
@@ -190,17 +200,22 @@
   }
   .about_bottom {
     position: relative;
-    height: 50%;
+    height: 48%;
     .about_img {
+      display: block;
+      text-indent: -624.9375rem;
       position: absolute;
-      bottom: -2%;
-      left: 35%;
+      bottom: -1%;
+      right: 34%;
+      background: url(../images/aboutimage.png) 0 0 / cover no-repeat;
+      width: 40.3125rem;
+      height: 26.875rem;
     }
     .about_pagelogo {
       text-transform: uppercase;
       position: absolute;
       bottom: 10%;
-      right: -76%;
+      right: 4%;
       font-family: Notable;
       font-size: 4.375rem;
       font-weight: 400;
@@ -210,7 +225,7 @@
 
 // WORK
 #work {
-  border: 0.0625rem solid var(--main-bg-color2);
+  border: 1px solid var(--main-bg-color2);
   margin-top: 0.5%;
   height: 95vh;
   width: 100%;
@@ -228,32 +243,33 @@
       column-gap: 5%;
       justify-items: center;
       text-align: center;
+      align-items: center;
       p {
         font-weight: 200;
       }
       .work_area {
         display: block;
-        padding-bottom: 20px;
+        padding-bottom: 1.25rem;
       }
       .work_link {
         text-transform: uppercase;
         display: inline-block;
-        width: 150px;
-        height: 10px;
+        width: 9.375rem;
+        height: 0.625rem;
         line-height: 10px;
-        padding: 10px;
+        padding: 0.625rem;
         margin-top: 20px;
-        border: 1px solid var(--main-bg-color2);
+        border: 0.0625rem solid var(--main-bg-color2);
         &:hover {
           color: white;
           background: var(--main-bg-color2);
         }
       }
       .work4_lazuli {
-        padding: 30px 0 40px 0;
+        padding: 4.8125rem 0 2.5rem 0;
         .work_area_lazuli {
           display: block;
-          padding-bottom: 30px;
+          padding-bottom: 1.875rem;
         }
       }
     }
@@ -262,9 +278,14 @@
     position: relative;
     height: 30%;
     .work_img {
+      display: block;
+      text-indent: -624.9375rem;
       position: absolute;
       bottom: -3%;
       left: 0%;
+      background: url(../images/workimage.png) 0 0 / cover no-repeat;
+      width: 40.3125rem;
+      height: 26.875rem;
     }
     .work_pagelogo {
       text-transform: uppercase;
@@ -281,14 +302,14 @@
 // CONTACT
 #contact {
   position: relative;
-  border: 0.0625rem solid var(--main-bg-color2);
+  border: 1px solid var(--main-bg-color2);
   margin-top: 0.5%;
   height: 95vh;
   width: 100%;
   overflow: hidden;
   @keyframes move {
     100% {
-      transform: translate3d(0, 0, -62.5rem);
+      transform: translate3d(0, 0, -1000px);
     }
   }
   .bubble-container2 {
@@ -299,11 +320,11 @@
   }
   .bubble-wrap2 {
     margin: 0 auto;
-    width: 31.25rem;
-    height: 31.25rem;
+    width: 500px;
+    height: 500px;
     transform-style: preserve-3d;
     transform-origin: center center;
-    perspective: 37.5rem;
+    perspective: 600px;
   }
   .bubble {
     position: absolute;
@@ -320,16 +341,16 @@
       width: $size;
       animation-delay: -$i * 0.2s;
       transform: translate3d(
-        (random(1000) * 0.0625rem),
-        (random(1000) * 0.0625rem),
-        (random(2000) * 0.0625rem)
+        (random(1000) * 1px),
+        (random(1000) * 1px),
+        (random(2000) * 1px)
       );
       background: hsl(random(360), 70%, 50%);
     }
   }
   .contact_salute {
     color: #000;
-    font-size: 50px;
+    font-size: 3.125rem;
     font-weight: 700;
     position: absolute;
     top: 3%;
@@ -339,7 +360,7 @@
     position: absolute;
     top: 4.5%;
     left: 13.7%;
-    width: 7px;
+    width: 0.4375rem;
     height: 7.5rem;
     background-color: var(--main-bg-color2);
   }
@@ -349,7 +370,7 @@
     top: 35%;
     left: 2%;
     font-family: Notable;
-    font-size: 100px;
+    font-size: 6.25rem;
     font-weight: 400;
     color: transparent;
     -webkit-text-stroke: 2px;
@@ -358,10 +379,16 @@
       color: var(--main-font-color);
     }
   }
+
   .contact_img {
+    display: block;
+    text-indent: -624.9375rem;
     position: absolute;
     bottom: 3%;
     right: 2%;
+    background: url(../images/contactimage.png) 0 0 / cover no-repeat;
+    width: 46.875rem;
+    height: 31.25rem;
   }
   #footer_bottom {
     position: absolute;
@@ -372,17 +399,17 @@
     color: var(--main-bg-color);
     text-align: center;
     line-height: 3;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 300;
   }
 }
 
-// *************** INTERACTIVE ***************
+// *************** RESPONSIVE ***************
 //WEB
-@media screen and (max-width: 1680px) {
+//MacbookPro 16"
+@media screen and (max-width: 1728px) {
   #about {
     .about_top {
-      height: 52%;
       .swiper {
         .swiper-slide:first-child {
           width: 25%;
@@ -401,23 +428,146 @@
         }
       }
     }
+  }
+}
+//MacbookPro 14"
+@media screen and (max-width: 1512px) {
+  #work {
+    .work_top {
+      margin: 0 5%;
+      .work_container {
+        width: 100%;
+        img {
+          width: 18.75rem;
+          height: 13.125rem;
+        }
+        .work4_lazuli {
+          padding: 3.75rem 0 2.5rem 0;
+          img {
+            width: 6.25rem;
+            height: 11.25rem;
+          }
+        }
+      }
+    }
+  }
+  #about {
+    .about_top {
+      .swiper {
+        .swiper-slide:first-child {
+          width: 25%;
+        }
+        .swiper-slide:nth-child(2) {
+          width: 60%;
+        }
+        .swiper-slide:nth-child(3) {
+          width: 40%;
+        }
+        .swiper-slide:nth-child(4) {
+          width: 43%;
+        }
+        .swiper-slide:nth-child(5) {
+          width: 34%;
+        }
+      }
+    }
     .about_bottom {
-      height: 48%;
       .about_img {
-        left: 30%;
+        right: 32%;
       }
-      .about_pagelogo {
-        right: -68%;
-      }
+    }
+  }
+  #contact {
+    .salute_line {
+      left: 16.7%;
     }
   }
 }
 
 @media screen and (max-width: 1440px) {
+  #hook {
+    .hook_img {
+      bottom: 0%;
+      width: 43.75rem;
+      height: 34.375rem;
+    }
+  }
+  #main {
+    .main_img {
+      width: 40.625rem;
+      height: 28.125rem;
+    }
+  }
+  #about {
+    .about_top {
+      .swiper {
+        .swiper-slide:nth-child(2) {
+          width: 65%;
+        }
+      }
+    }
+  }
+  #contact {
+    .salute_line {
+      left: 17.5%;
+    }
+  }
+}
+//MacbookAir
+@media screen and (max-width: 1280px) {
+  #main {
+    .main_name {
+      font-size: 5rem;
+    }
+    .main_portfolio {
+      top: 27.5%;
+      font-size: 5rem;
+    }
+  }
+  #about {
+    .about_top {
+      .swiper {
+        .swiper-slide:first-child {
+          width: 30%;
+        }
+        .swiper-slide:nth-child(2) {
+          width: 80%;
+        }
+        .swiper-slide:nth-child(3) {
+          width: 50%;
+        }
+        .swiper-slide:nth-child(4) {
+          width: 50%;
+        }
+        .swiper-slide:nth-child(5) {
+          width: 40%;
+        }
+      }
+    }
+    .about_img {
+      width: 34.375rem;
+      height: 25rem;
+    }
+  }
+  #work {
+    .work_top {
+      .work_container img {
+        width: 252px;
+        height: 210px;
+      }
+    }
+  }
+  #contact {
+    .contact_salute {
+      font-size: 2.5rem;
+    }
+    .contact_pagelogo {
+      top: 30%;
+      font-size: 5.625rem;
+    }
+  }
 }
 
-@media screen and (max-width: 1280px) {
-}
 @media screen and (max-width: 1024px) {
 }
 
