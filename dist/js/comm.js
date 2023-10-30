@@ -1,5 +1,9 @@
 $(document).ready(function () {
   // fullpage
+  // 480px 미만 fullpage 해지
+  $("#fullpage").fullpage({
+    responsiveWidth: 480,
+  });
   $("#fullpage").fullpage({
     scrollingSpeed: 700,
     // scrollBar: true,
@@ -15,7 +19,7 @@ $(document).ready(function () {
     afterLoad: function (anchorLink, index) {
       // 전환이 끝난후 이벤트풀기
       $("#fullpage").off("scroll mousewheel");
-      if (!$(".fp-completely .swiper-wrapper").length > 480)
+      if (!$(".fp-completely .swiper-wrapper").length > 0)
         $("#fullpage").off("touchmove"); // 모바일분기
       if (swiper) swiper.mousewheel.enable();
       if (!$(".sec3").hasClass("active")) $.fn.fullpage.setAllowScrolling(true); // 슬라이드 섹션을 벗어나면 휠풀어주기

@@ -926,7 +926,7 @@
 
 @media screen and (max-width: 375px) {
   #hook {
-    height: 90vh;
+    height: 100vh;
     .hook_copy {
       font-size: 2.5rem;
       top: 23%;
@@ -945,13 +945,13 @@
     }
   }
   #main {
-    height: 90vh;
+    height: 100vh;
     .main_name {
       font-size: 45px;
     }
     .main_portfolio {
       font-size: 40px;
-      top: 18%;
+      top: 21%;
       left: 6%;
       -webkit-text-stroke: 1.5px var(--main-bg-color2);
     }
@@ -961,28 +961,28 @@
     }
   }
   #about {
-    height: 90vh;
+    height: 100vh;
     .about_top {
       .swiper {
         .swiper-slide:first-child {
           width: 80%;
-          height: 70%;
+          height: 60%;
         }
         .swiper-slide:nth-child(2) {
-          width: 200%;
-          height: 70%;
+          width: 180%;
+          height: 60%;
         }
         .swiper-slide:nth-child(3) {
           width: 120%;
-          height: 70%;
+          height: 60%;
         }
         .swiper-slide:nth-child(4) {
           width: 120%;
-          height: 70%;
+          height: 60%;
         }
         .swiper-slide:nth-child(5) {
-          width: 80%;
-          height: 70%;
+          width: 90%;
+          height: 60%;
         }
       }
     }
@@ -1002,6 +1002,9 @@
       margin: 0%;
       .work_container {
         column-gap: 0%;
+        h3 {
+          font-size: 14px;
+        }
         .work4_lazuli {
           padding: 0rem;
           .work_area_lazuli {
@@ -1029,15 +1032,15 @@
     }
   }
   #contact {
-    height: 90vh;
+    height: 100vh;
     .contact_pagelogo {
-      font-size: 43px;
+      font-size: 40px;
       left: 4.3%;
       -webkit-text-stroke: 1.5px;
       -webkit-text-stroke-color: var(--main-font-color);
     }
     .salute_line {
-      left: 44.3%;
+      left: 46%;
     }
     .contact_img {
       right: 0%;
@@ -1046,7 +1049,7 @@
     }
     #footer_bottom {
       font-size: 8px;
-      line-height: 5.5;
+      line-height: 6.5;
     }
   }
 }
