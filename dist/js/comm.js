@@ -1,7 +1,7 @@
 $(document).ready(function () {
   // fullpage
   $("#fullpage").fullpage({
-    responsiveWidth: 481,
+    responsiveWidth: 480,
   });
   $("#fullpage").fullpage({
     scrollingSpeed: 700,
