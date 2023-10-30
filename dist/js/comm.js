@@ -1,8 +1,7 @@
 $(document).ready(function () {
   // fullpage
-  // 480px 미만 fullpage 해지
   $("#fullpage").fullpage({
-    responsiveWidth: 480,
+    responsiveWidth: 481,
   });
   $("#fullpage").fullpage({
     scrollingSpeed: 700,
