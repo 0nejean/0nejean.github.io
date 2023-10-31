@@ -372,704 +372,704 @@ legend {
   animation: move 3s infinite;
 }
 #main .bubble:nth-child(1) {
-  height: 24px;
-  width: 24px;
+  height: 26px;
+  width: 26px;
   animation-delay: -0.2s;
-  transform: translate3d(687px, 120px, 487px);
-  background: hsl(162, 70%, 50%);
-}
-#main .bubble:nth-child(2) {
-  height: 30px;
-  width: 30px;
-  animation-delay: -0.4s;
-  transform: translate3d(67px, 666px, 1607px);
-  background: hsl(247, 70%, 50%);
-}
-#main .bubble:nth-child(3) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -0.6s;
-  transform: translate3d(650px, 805px, 562px);
-  background: hsl(198, 70%, 50%);
-}
-#main .bubble:nth-child(4) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -0.8s;
-  transform: translate3d(700px, 536px, 296px);
-  background: hsl(180, 70%, 50%);
-}
-#main .bubble:nth-child(5) {
-  height: 29px;
-  width: 29px;
-  animation-delay: -1s;
-  transform: translate3d(383px, 268px, 741px);
-  background: hsl(132, 70%, 50%);
-}
-#main .bubble:nth-child(6) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -1.2s;
-  transform: translate3d(51px, 691px, 1560px);
-  background: hsl(332, 70%, 50%);
-}
-#main .bubble:nth-child(7) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -1.4s;
-  transform: translate3d(911px, 328px, 1755px);
-  background: hsl(314, 70%, 50%);
-}
-#main .bubble:nth-child(8) {
-  height: 28px;
-  width: 28px;
-  animation-delay: -1.6s;
-  transform: translate3d(765px, 193px, 1412px);
-  background: hsl(322, 70%, 50%);
-}
-#main .bubble:nth-child(9) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -1.8s;
-  transform: translate3d(239px, 963px, 510px);
-  background: hsl(14, 70%, 50%);
-}
-#main .bubble:nth-child(10) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -2s;
-  transform: translate3d(55px, 323px, 1139px);
-  background: hsl(41, 70%, 50%);
-}
-#main .bubble:nth-child(11) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -2.2s;
-  transform: translate3d(801px, 865px, 7px);
-  background: hsl(138, 70%, 50%);
-}
-#main .bubble:nth-child(12) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -2.4s;
-  transform: translate3d(556px, 878px, 932px);
-  background: hsl(181, 70%, 50%);
-}
-#main .bubble:nth-child(13) {
-  height: 29px;
-  width: 29px;
-  animation-delay: -2.6s;
-  transform: translate3d(855px, 919px, 1892px);
-  background: hsl(133, 70%, 50%);
-}
-#main .bubble:nth-child(14) {
-  height: 2px;
-  width: 2px;
-  animation-delay: -2.8s;
-  transform: translate3d(776px, 276px, 1581px);
-  background: hsl(178, 70%, 50%);
-}
-#main .bubble:nth-child(15) {
-  height: 28px;
-  width: 28px;
-  animation-delay: -3s;
-  transform: translate3d(852px, 503px, 1580px);
-  background: hsl(157, 70%, 50%);
-}
-#main .bubble:nth-child(16) {
-  height: 29px;
-  width: 29px;
-  animation-delay: -3.2s;
-  transform: translate3d(471px, 541px, 1947px);
-  background: hsl(297, 70%, 50%);
-}
-#main .bubble:nth-child(17) {
-  height: 1px;
-  width: 1px;
-  animation-delay: -3.4s;
-  transform: translate3d(362px, 41px, 590px);
-  background: hsl(299, 70%, 50%);
-}
-#main .bubble:nth-child(18) {
-  height: 10px;
-  width: 10px;
-  animation-delay: -3.6s;
-  transform: translate3d(961px, 975px, 14px);
-  background: hsl(3, 70%, 50%);
-}
-#main .bubble:nth-child(19) {
-  height: 25px;
-  width: 25px;
-  animation-delay: -3.8s;
-  transform: translate3d(709px, 819px, 580px);
-  background: hsl(74, 70%, 50%);
-}
-#main .bubble:nth-child(20) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -4s;
-  transform: translate3d(998px, 900px, 986px);
-  background: hsl(260, 70%, 50%);
-}
-#main .bubble:nth-child(21) {
-  height: 20px;
-  width: 20px;
-  animation-delay: -4.2s;
-  transform: translate3d(594px, 875px, 8px);
-  background: hsl(315, 70%, 50%);
-}
-#main .bubble:nth-child(22) {
-  height: 5px;
-  width: 5px;
-  animation-delay: -4.4s;
-  transform: translate3d(780px, 745px, 1490px);
-  background: hsl(73, 70%, 50%);
-}
-#main .bubble:nth-child(23) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -4.6s;
-  transform: translate3d(737px, 929px, 484px);
-  background: hsl(139, 70%, 50%);
-}
-#main .bubble:nth-child(24) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -4.8s;
-  transform: translate3d(985px, 805px, 933px);
-  background: hsl(125, 70%, 50%);
-}
-#main .bubble:nth-child(25) {
-  height: 16px;
-  width: 16px;
-  animation-delay: -5s;
-  transform: translate3d(475px, 535px, 1110px);
-  background: hsl(39, 70%, 50%);
-}
-#main .bubble:nth-child(26) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -5.2s;
-  transform: translate3d(955px, 334px, 31px);
-  background: hsl(285, 70%, 50%);
-}
-#main .bubble:nth-child(27) {
-  height: 6px;
-  width: 6px;
-  animation-delay: -5.4s;
-  transform: translate3d(517px, 699px, 1614px);
-  background: hsl(56, 70%, 50%);
-}
-#main .bubble:nth-child(28) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -5.6s;
-  transform: translate3d(27px, 718px, 463px);
-  background: hsl(226, 70%, 50%);
-}
-#main .bubble:nth-child(29) {
-  height: 19px;
-  width: 19px;
-  animation-delay: -5.8s;
-  transform: translate3d(511px, 721px, 249px);
+  transform: translate3d(699px, 787px, 1210px);
   background: hsl(343, 70%, 50%);
 }
-#main .bubble:nth-child(30) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -6s;
-  transform: translate3d(889px, 130px, 1484px);
-  background: hsl(266, 70%, 50%);
-}
-#main .bubble:nth-child(31) {
-  height: 24px;
-  width: 24px;
-  animation-delay: -6.2s;
-  transform: translate3d(286px, 57px, 495px);
-  background: hsl(83, 70%, 50%);
-}
-#main .bubble:nth-child(32) {
-  height: 28px;
-  width: 28px;
-  animation-delay: -6.4s;
-  transform: translate3d(393px, 606px, 1375px);
-  background: hsl(301, 70%, 50%);
-}
-#main .bubble:nth-child(33) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -6.6s;
-  transform: translate3d(189px, 533px, 1390px);
-  background: hsl(134, 70%, 50%);
-}
-#main .bubble:nth-child(34) {
-  height: 1px;
-  width: 1px;
-  animation-delay: -6.8s;
-  transform: translate3d(705px, 348px, 1099px);
-  background: hsl(273, 70%, 50%);
-}
-#main .bubble:nth-child(35) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -7s;
-  transform: translate3d(711px, 717px, 1689px);
-  background: hsl(292, 70%, 50%);
-}
-#main .bubble:nth-child(36) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -7.2s;
-  transform: translate3d(27px, 836px, 334px);
-  background: hsl(102, 70%, 50%);
-}
-#main .bubble:nth-child(37) {
-  height: 30px;
-  width: 30px;
-  animation-delay: -7.4s;
-  transform: translate3d(309px, 491px, 1541px);
-  background: hsl(273, 70%, 50%);
-}
-#main .bubble:nth-child(38) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -7.6s;
-  transform: translate3d(665px, 818px, 303px);
-  background: hsl(241, 70%, 50%);
-}
-#main .bubble:nth-child(39) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -7.8s;
-  transform: translate3d(428px, 881px, 791px);
-  background: hsl(338, 70%, 50%);
-}
-#main .bubble:nth-child(40) {
-  height: 6px;
-  width: 6px;
-  animation-delay: -8s;
-  transform: translate3d(720px, 811px, 408px);
-  background: hsl(311, 70%, 50%);
-}
-#main .bubble:nth-child(41) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -8.2s;
-  transform: translate3d(884px, 794px, 1515px);
-  background: hsl(105, 70%, 50%);
-}
-#main .bubble:nth-child(42) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -8.4s;
-  transform: translate3d(921px, 468px, 49px);
-  background: hsl(18, 70%, 50%);
-}
-#main .bubble:nth-child(43) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -8.6s;
-  transform: translate3d(618px, 753px, 484px);
-  background: hsl(254, 70%, 50%);
-}
-#main .bubble:nth-child(44) {
-  height: 2px;
-  width: 2px;
-  animation-delay: -8.8s;
-  transform: translate3d(111px, 834px, 754px);
-  background: hsl(39, 70%, 50%);
-}
-#main .bubble:nth-child(45) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -9s;
-  transform: translate3d(927px, 252px, 1843px);
-  background: hsl(229, 70%, 50%);
-}
-#main .bubble:nth-child(46) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -9.2s;
-  transform: translate3d(453px, 242px, 172px);
-  background: hsl(333, 70%, 50%);
-}
-#main .bubble:nth-child(47) {
-  height: 28px;
-  width: 28px;
-  animation-delay: -9.4s;
-  transform: translate3d(342px, 931px, 330px);
-  background: hsl(36, 70%, 50%);
-}
-#main .bubble:nth-child(48) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -9.6s;
-  transform: translate3d(190px, 957px, 731px);
-  background: hsl(114, 70%, 50%);
-}
-#main .bubble:nth-child(49) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -9.8s;
-  transform: translate3d(299px, 468px, 1240px);
-  background: hsl(257, 70%, 50%);
-}
-#main .bubble:nth-child(50) {
-  height: 28px;
-  width: 28px;
-  animation-delay: -10s;
-  transform: translate3d(251px, 312px, 122px);
-  background: hsl(255, 70%, 50%);
-}
-#main .bubble:nth-child(51) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -10.2s;
-  transform: translate3d(156px, 890px, 241px);
-  background: hsl(274, 70%, 50%);
-}
-#main .bubble:nth-child(52) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -10.4s;
-  transform: translate3d(178px, 236px, 935px);
-  background: hsl(98, 70%, 50%);
-}
-#main .bubble:nth-child(53) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -10.6s;
-  transform: translate3d(977px, 103px, 252px);
-  background: hsl(233, 70%, 50%);
-}
-#main .bubble:nth-child(54) {
-  height: 10px;
-  width: 10px;
-  animation-delay: -10.8s;
-  transform: translate3d(26px, 794px, 1281px);
-  background: hsl(16, 70%, 50%);
-}
-#main .bubble:nth-child(55) {
-  height: 25px;
-  width: 25px;
-  animation-delay: -11s;
-  transform: translate3d(44px, 310px, 175px);
-  background: hsl(106, 70%, 50%);
-}
-#main .bubble:nth-child(56) {
+#main .bubble:nth-child(2) {
   height: 20px;
   width: 20px;
-  animation-delay: -11.2s;
-  transform: translate3d(343px, 119px, 1330px);
-  background: hsl(93, 70%, 50%);
+  animation-delay: -0.4s;
+  transform: translate3d(569px, 249px, 106px);
+  background: hsl(97, 70%, 50%);
 }
-#main .bubble:nth-child(57) {
-  height: 1px;
-  width: 1px;
-  animation-delay: -11.4s;
-  transform: translate3d(265px, 279px, 42px);
-  background: hsl(323, 70%, 50%);
+#main .bubble:nth-child(3) {
+  height: 8px;
+  width: 8px;
+  animation-delay: -0.6s;
+  transform: translate3d(532px, 601px, 778px);
+  background: hsl(296, 70%, 50%);
 }
-#main .bubble:nth-child(58) {
+#main .bubble:nth-child(4) {
   height: 28px;
   width: 28px;
-  animation-delay: -11.6s;
-  transform: translate3d(927px, 228px, 1314px);
-  background: hsl(54, 70%, 50%);
+  animation-delay: -0.8s;
+  transform: translate3d(333px, 681px, 346px);
+  background: hsl(247, 70%, 50%);
 }
-#main .bubble:nth-child(59) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -11.8s;
-  transform: translate3d(875px, 169px, 1939px);
-  background: hsl(300, 70%, 50%);
-}
-#main .bubble:nth-child(60) {
+#main .bubble:nth-child(5) {
   height: 23px;
   width: 23px;
-  animation-delay: -12s;
-  transform: translate3d(802px, 184px, 1764px);
-  background: hsl(112, 70%, 50%);
-}
-#main .bubble:nth-child(61) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -12.2s;
-  transform: translate3d(683px, 28px, 1220px);
-  background: hsl(58, 70%, 50%);
-}
-#main .bubble:nth-child(62) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -12.4s;
-  transform: translate3d(689px, 803px, 1441px);
-  background: hsl(158, 70%, 50%);
-}
-#main .bubble:nth-child(63) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -12.6s;
-  transform: translate3d(1px, 722px, 520px);
+  animation-delay: -1s;
+  transform: translate3d(488px, 29px, 1547px);
   background: hsl(336, 70%, 50%);
 }
-#main .bubble:nth-child(64) {
+#main .bubble:nth-child(6) {
+  height: 9px;
+  width: 9px;
+  animation-delay: -1.2s;
+  transform: translate3d(586px, 202px, 1576px);
+  background: hsl(34, 70%, 50%);
+}
+#main .bubble:nth-child(7) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -1.4s;
+  transform: translate3d(439px, 163px, 1526px);
+  background: hsl(163, 70%, 50%);
+}
+#main .bubble:nth-child(8) {
   height: 29px;
   width: 29px;
+  animation-delay: -1.6s;
+  transform: translate3d(800px, 218px, 1637px);
+  background: hsl(224, 70%, 50%);
+}
+#main .bubble:nth-child(9) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -1.8s;
+  transform: translate3d(791px, 295px, 1875px);
+  background: hsl(330, 70%, 50%);
+}
+#main .bubble:nth-child(10) {
+  height: 10px;
+  width: 10px;
+  animation-delay: -2s;
+  transform: translate3d(681px, 142px, 337px);
+  background: hsl(168, 70%, 50%);
+}
+#main .bubble:nth-child(11) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -2.2s;
+  transform: translate3d(116px, 569px, 1738px);
+  background: hsl(94, 70%, 50%);
+}
+#main .bubble:nth-child(12) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -2.4s;
+  transform: translate3d(202px, 911px, 1457px);
+  background: hsl(353, 70%, 50%);
+}
+#main .bubble:nth-child(13) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -2.6s;
+  transform: translate3d(78px, 252px, 390px);
+  background: hsl(300, 70%, 50%);
+}
+#main .bubble:nth-child(14) {
+  height: 5px;
+  width: 5px;
+  animation-delay: -2.8s;
+  transform: translate3d(368px, 744px, 599px);
+  background: hsl(216, 70%, 50%);
+}
+#main .bubble:nth-child(15) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -3s;
+  transform: translate3d(33px, 517px, 1611px);
+  background: hsl(219, 70%, 50%);
+}
+#main .bubble:nth-child(16) {
+  height: 8px;
+  width: 8px;
+  animation-delay: -3.2s;
+  transform: translate3d(634px, 860px, 913px);
+  background: hsl(245, 70%, 50%);
+}
+#main .bubble:nth-child(17) {
+  height: 5px;
+  width: 5px;
+  animation-delay: -3.4s;
+  transform: translate3d(956px, 590px, 1719px);
+  background: hsl(77, 70%, 50%);
+}
+#main .bubble:nth-child(18) {
+  height: 25px;
+  width: 25px;
+  animation-delay: -3.6s;
+  transform: translate3d(839px, 160px, 142px);
+  background: hsl(23, 70%, 50%);
+}
+#main .bubble:nth-child(19) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -3.8s;
+  transform: translate3d(46px, 890px, 1152px);
+  background: hsl(333, 70%, 50%);
+}
+#main .bubble:nth-child(20) {
+  height: 7px;
+  width: 7px;
+  animation-delay: -4s;
+  transform: translate3d(886px, 656px, 1558px);
+  background: hsl(153, 70%, 50%);
+}
+#main .bubble:nth-child(21) {
+  height: 18px;
+  width: 18px;
+  animation-delay: -4.2s;
+  transform: translate3d(823px, 164px, 77px);
+  background: hsl(65, 70%, 50%);
+}
+#main .bubble:nth-child(22) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -4.4s;
+  transform: translate3d(777px, 906px, 1028px);
+  background: hsl(161, 70%, 50%);
+}
+#main .bubble:nth-child(23) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -4.6s;
+  transform: translate3d(571px, 87px, 1190px);
+  background: hsl(210, 70%, 50%);
+}
+#main .bubble:nth-child(24) {
+  height: 30px;
+  width: 30px;
+  animation-delay: -4.8s;
+  transform: translate3d(361px, 769px, 757px);
+  background: hsl(75, 70%, 50%);
+}
+#main .bubble:nth-child(25) {
+  height: 25px;
+  width: 25px;
+  animation-delay: -5s;
+  transform: translate3d(727px, 434px, 1670px);
+  background: hsl(16, 70%, 50%);
+}
+#main .bubble:nth-child(26) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -5.2s;
+  transform: translate3d(703px, 907px, 1769px);
+  background: hsl(31, 70%, 50%);
+}
+#main .bubble:nth-child(27) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -5.4s;
+  transform: translate3d(408px, 262px, 1773px);
+  background: hsl(156, 70%, 50%);
+}
+#main .bubble:nth-child(28) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -5.6s;
+  transform: translate3d(210px, 602px, 1476px);
+  background: hsl(97, 70%, 50%);
+}
+#main .bubble:nth-child(29) {
+  height: 12px;
+  width: 12px;
+  animation-delay: -5.8s;
+  transform: translate3d(291px, 560px, 1419px);
+  background: hsl(274, 70%, 50%);
+}
+#main .bubble:nth-child(30) {
+  height: 21px;
+  width: 21px;
+  animation-delay: -6s;
+  transform: translate3d(986px, 49px, 867px);
+  background: hsl(117, 70%, 50%);
+}
+#main .bubble:nth-child(31) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -6.2s;
+  transform: translate3d(455px, 636px, 486px);
+  background: hsl(305, 70%, 50%);
+}
+#main .bubble:nth-child(32) {
+  height: 10px;
+  width: 10px;
+  animation-delay: -6.4s;
+  transform: translate3d(467px, 462px, 117px);
+  background: hsl(276, 70%, 50%);
+}
+#main .bubble:nth-child(33) {
+  height: 17px;
+  width: 17px;
+  animation-delay: -6.6s;
+  transform: translate3d(189px, 480px, 1706px);
+  background: hsl(191, 70%, 50%);
+}
+#main .bubble:nth-child(34) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -6.8s;
+  transform: translate3d(220px, 803px, 1220px);
+  background: hsl(358, 70%, 50%);
+}
+#main .bubble:nth-child(35) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -7s;
+  transform: translate3d(72px, 168px, 1545px);
+  background: hsl(89, 70%, 50%);
+}
+#main .bubble:nth-child(36) {
+  height: 3px;
+  width: 3px;
+  animation-delay: -7.2s;
+  transform: translate3d(947px, 652px, 1638px);
+  background: hsl(270, 70%, 50%);
+}
+#main .bubble:nth-child(37) {
+  height: 25px;
+  width: 25px;
+  animation-delay: -7.4s;
+  transform: translate3d(651px, 961px, 1959px);
+  background: hsl(187, 70%, 50%);
+}
+#main .bubble:nth-child(38) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -7.6s;
+  transform: translate3d(763px, 796px, 1030px);
+  background: hsl(23, 70%, 50%);
+}
+#main .bubble:nth-child(39) {
+  height: 9px;
+  width: 9px;
+  animation-delay: -7.8s;
+  transform: translate3d(732px, 812px, 432px);
+  background: hsl(299, 70%, 50%);
+}
+#main .bubble:nth-child(40) {
+  height: 7px;
+  width: 7px;
+  animation-delay: -8s;
+  transform: translate3d(626px, 280px, 1934px);
+  background: hsl(78, 70%, 50%);
+}
+#main .bubble:nth-child(41) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -8.2s;
+  transform: translate3d(429px, 993px, 506px);
+  background: hsl(42, 70%, 50%);
+}
+#main .bubble:nth-child(42) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -8.4s;
+  transform: translate3d(552px, 300px, 218px);
+  background: hsl(239, 70%, 50%);
+}
+#main .bubble:nth-child(43) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -8.6s;
+  transform: translate3d(658px, 389px, 838px);
+  background: hsl(251, 70%, 50%);
+}
+#main .bubble:nth-child(44) {
+  height: 17px;
+  width: 17px;
+  animation-delay: -8.8s;
+  transform: translate3d(67px, 163px, 596px);
+  background: hsl(110, 70%, 50%);
+}
+#main .bubble:nth-child(45) {
+  height: 29px;
+  width: 29px;
+  animation-delay: -9s;
+  transform: translate3d(514px, 261px, 1197px);
+  background: hsl(335, 70%, 50%);
+}
+#main .bubble:nth-child(46) {
+  height: 6px;
+  width: 6px;
+  animation-delay: -9.2s;
+  transform: translate3d(597px, 14px, 177px);
+  background: hsl(166, 70%, 50%);
+}
+#main .bubble:nth-child(47) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -9.4s;
+  transform: translate3d(100px, 723px, 645px);
+  background: hsl(214, 70%, 50%);
+}
+#main .bubble:nth-child(48) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -9.6s;
+  transform: translate3d(465px, 553px, 1140px);
+  background: hsl(241, 70%, 50%);
+}
+#main .bubble:nth-child(49) {
+  height: 3px;
+  width: 3px;
+  animation-delay: -9.8s;
+  transform: translate3d(963px, 446px, 1732px);
+  background: hsl(223, 70%, 50%);
+}
+#main .bubble:nth-child(50) {
+  height: 7px;
+  width: 7px;
+  animation-delay: -10s;
+  transform: translate3d(592px, 455px, 1030px);
+  background: hsl(4, 70%, 50%);
+}
+#main .bubble:nth-child(51) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -10.2s;
+  transform: translate3d(535px, 83px, 862px);
+  background: hsl(341, 70%, 50%);
+}
+#main .bubble:nth-child(52) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -10.4s;
+  transform: translate3d(239px, 477px, 1482px);
+  background: hsl(218, 70%, 50%);
+}
+#main .bubble:nth-child(53) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -10.6s;
+  transform: translate3d(718px, 473px, 1872px);
+  background: hsl(188, 70%, 50%);
+}
+#main .bubble:nth-child(54) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -10.8s;
+  transform: translate3d(774px, 459px, 841px);
+  background: hsl(77, 70%, 50%);
+}
+#main .bubble:nth-child(55) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -11s;
+  transform: translate3d(133px, 55px, 816px);
+  background: hsl(302, 70%, 50%);
+}
+#main .bubble:nth-child(56) {
+  height: 29px;
+  width: 29px;
+  animation-delay: -11.2s;
+  transform: translate3d(94px, 382px, 914px);
+  background: hsl(281, 70%, 50%);
+}
+#main .bubble:nth-child(57) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -11.4s;
+  transform: translate3d(89px, 642px, 910px);
+  background: hsl(353, 70%, 50%);
+}
+#main .bubble:nth-child(58) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -11.6s;
+  transform: translate3d(482px, 109px, 779px);
+  background: hsl(269, 70%, 50%);
+}
+#main .bubble:nth-child(59) {
+  height: 26px;
+  width: 26px;
+  animation-delay: -11.8s;
+  transform: translate3d(354px, 397px, 1461px);
+  background: hsl(239, 70%, 50%);
+}
+#main .bubble:nth-child(60) {
+  height: 24px;
+  width: 24px;
+  animation-delay: -12s;
+  transform: translate3d(609px, 164px, 1333px);
+  background: hsl(52, 70%, 50%);
+}
+#main .bubble:nth-child(61) {
+  height: 30px;
+  width: 30px;
+  animation-delay: -12.2s;
+  transform: translate3d(916px, 180px, 1323px);
+  background: hsl(106, 70%, 50%);
+}
+#main .bubble:nth-child(62) {
+  height: 9px;
+  width: 9px;
+  animation-delay: -12.4s;
+  transform: translate3d(333px, 912px, 978px);
+  background: hsl(337, 70%, 50%);
+}
+#main .bubble:nth-child(63) {
+  height: 17px;
+  width: 17px;
+  animation-delay: -12.6s;
+  transform: translate3d(294px, 540px, 1845px);
+  background: hsl(176, 70%, 50%);
+}
+#main .bubble:nth-child(64) {
+  height: 25px;
+  width: 25px;
   animation-delay: -12.8s;
-  transform: translate3d(14px, 415px, 1569px);
-  background: hsl(112, 70%, 50%);
+  transform: translate3d(282px, 494px, 704px);
+  background: hsl(213, 70%, 50%);
 }
 #main .bubble:nth-child(65) {
   height: 25px;
   width: 25px;
   animation-delay: -13s;
-  transform: translate3d(158px, 218px, 1359px);
-  background: hsl(346, 70%, 50%);
+  transform: translate3d(883px, 435px, 329px);
+  background: hsl(84, 70%, 50%);
 }
 #main .bubble:nth-child(66) {
-  height: 27px;
-  width: 27px;
+  height: 10px;
+  width: 10px;
   animation-delay: -13.2s;
-  transform: translate3d(661px, 948px, 684px);
-  background: hsl(40, 70%, 50%);
+  transform: translate3d(223px, 662px, 1432px);
+  background: hsl(56, 70%, 50%);
 }
 #main .bubble:nth-child(67) {
-  height: 13px;
-  width: 13px;
+  height: 30px;
+  width: 30px;
   animation-delay: -13.4s;
-  transform: translate3d(208px, 385px, 220px);
-  background: hsl(282, 70%, 50%);
+  transform: translate3d(501px, 547px, 240px);
+  background: hsl(242, 70%, 50%);
 }
 #main .bubble:nth-child(68) {
-  height: 5px;
-  width: 5px;
+  height: 24px;
+  width: 24px;
   animation-delay: -13.6s;
-  transform: translate3d(517px, 956px, 1931px);
-  background: hsl(243, 70%, 50%);
+  transform: translate3d(211px, 799px, 741px);
+  background: hsl(262, 70%, 50%);
 }
 #main .bubble:nth-child(69) {
-  height: 1px;
-  width: 1px;
-  animation-delay: -13.8s;
-  transform: translate3d(347px, 750px, 70px);
-  background: hsl(178, 70%, 50%);
-}
-#main .bubble:nth-child(70) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -14s;
-  transform: translate3d(811px, 181px, 1344px);
-  background: hsl(325, 70%, 50%);
-}
-#main .bubble:nth-child(71) {
-  height: 29px;
-  width: 29px;
-  animation-delay: -14.2s;
-  transform: translate3d(189px, 591px, 1075px);
-  background: hsl(329, 70%, 50%);
-}
-#main .bubble:nth-child(72) {
-  height: 12px;
-  width: 12px;
-  animation-delay: -14.4s;
-  transform: translate3d(195px, 478px, 894px);
-  background: hsl(285, 70%, 50%);
-}
-#main .bubble:nth-child(73) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -14.6s;
-  transform: translate3d(306px, 648px, 863px);
-  background: hsl(279, 70%, 50%);
-}
-#main .bubble:nth-child(74) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -14.8s;
-  transform: translate3d(837px, 241px, 63px);
-  background: hsl(220, 70%, 50%);
-}
-#main .bubble:nth-child(75) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -15s;
-  transform: translate3d(588px, 434px, 1430px);
-  background: hsl(24, 70%, 50%);
-}
-#main .bubble:nth-child(76) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -15.2s;
-  transform: translate3d(264px, 176px, 1611px);
-  background: hsl(252, 70%, 50%);
-}
-#main .bubble:nth-child(77) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -15.4s;
-  transform: translate3d(912px, 374px, 1378px);
-  background: hsl(282, 70%, 50%);
-}
-#main .bubble:nth-child(78) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -15.6s;
-  transform: translate3d(455px, 7px, 134px);
-  background: hsl(302, 70%, 50%);
-}
-#main .bubble:nth-child(79) {
-  height: 13px;
-  width: 13px;
-  animation-delay: -15.8s;
-  transform: translate3d(336px, 949px, 1181px);
-  background: hsl(336, 70%, 50%);
-}
-#main .bubble:nth-child(80) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -16s;
-  transform: translate3d(64px, 379px, 1035px);
-  background: hsl(246, 70%, 50%);
-}
-#main .bubble:nth-child(81) {
-  height: 25px;
-  width: 25px;
-  animation-delay: -16.2s;
-  transform: translate3d(90px, 298px, 1270px);
-  background: hsl(90, 70%, 50%);
-}
-#main .bubble:nth-child(82) {
   height: 6px;
   width: 6px;
-  animation-delay: -16.4s;
-  transform: translate3d(339px, 968px, 169px);
-  background: hsl(39, 70%, 50%);
+  animation-delay: -13.8s;
+  transform: translate3d(372px, 826px, 1531px);
+  background: hsl(294, 70%, 50%);
 }
-#main .bubble:nth-child(83) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -16.6s;
-  transform: translate3d(278px, 997px, 86px);
-  background: hsl(96, 70%, 50%);
+#main .bubble:nth-child(70) {
+  height: 24px;
+  width: 24px;
+  animation-delay: -14s;
+  transform: translate3d(679px, 753px, 1020px);
+  background: hsl(262, 70%, 50%);
 }
-#main .bubble:nth-child(84) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -16.8s;
-  transform: translate3d(589px, 628px, 1590px);
-  background: hsl(278, 70%, 50%);
+#main .bubble:nth-child(71) {
+  height: 10px;
+  width: 10px;
+  animation-delay: -14.2s;
+  transform: translate3d(254px, 438px, 1571px);
+  background: hsl(285, 70%, 50%);
 }
-#main .bubble:nth-child(85) {
+#main .bubble:nth-child(72) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -14.4s;
+  transform: translate3d(650px, 449px, 572px);
+  background: hsl(1, 70%, 50%);
+}
+#main .bubble:nth-child(73) {
+  height: 20px;
+  width: 20px;
+  animation-delay: -14.6s;
+  transform: translate3d(117px, 650px, 424px);
+  background: hsl(95, 70%, 50%);
+}
+#main .bubble:nth-child(74) {
+  height: 7px;
+  width: 7px;
+  animation-delay: -14.8s;
+  transform: translate3d(383px, 993px, 615px);
+  background: hsl(17, 70%, 50%);
+}
+#main .bubble:nth-child(75) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -15s;
+  transform: translate3d(468px, 624px, 696px);
+  background: hsl(195, 70%, 50%);
+}
+#main .bubble:nth-child(76) {
+  height: 12px;
+  width: 12px;
+  animation-delay: -15.2s;
+  transform: translate3d(681px, 523px, 118px);
+  background: hsl(164, 70%, 50%);
+}
+#main .bubble:nth-child(77) {
   height: 16px;
   width: 16px;
-  animation-delay: -17s;
-  transform: translate3d(992px, 595px, 921px);
-  background: hsl(12, 70%, 50%);
+  animation-delay: -15.4s;
+  transform: translate3d(781px, 75px, 584px);
+  background: hsl(0, 70%, 50%);
 }
-#main .bubble:nth-child(86) {
+#main .bubble:nth-child(78) {
+  height: 9px;
+  width: 9px;
+  animation-delay: -15.6s;
+  transform: translate3d(981px, 129px, 124px);
+  background: hsl(8, 70%, 50%);
+}
+#main .bubble:nth-child(79) {
+  height: 6px;
+  width: 6px;
+  animation-delay: -15.8s;
+  transform: translate3d(462px, 441px, 1182px);
+  background: hsl(329, 70%, 50%);
+}
+#main .bubble:nth-child(80) {
   height: 2px;
   width: 2px;
+  animation-delay: -16s;
+  transform: translate3d(326px, 940px, 797px);
+  background: hsl(34, 70%, 50%);
+}
+#main .bubble:nth-child(81) {
+  height: 4px;
+  width: 4px;
+  animation-delay: -16.2s;
+  transform: translate3d(824px, 39px, 106px);
+  background: hsl(9, 70%, 50%);
+}
+#main .bubble:nth-child(82) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -16.4s;
+  transform: translate3d(696px, 54px, 210px);
+  background: hsl(149, 70%, 50%);
+}
+#main .bubble:nth-child(83) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -16.6s;
+  transform: translate3d(938px, 501px, 435px);
+  background: hsl(347, 70%, 50%);
+}
+#main .bubble:nth-child(84) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -16.8s;
+  transform: translate3d(809px, 87px, 1783px);
+  background: hsl(224, 70%, 50%);
+}
+#main .bubble:nth-child(85) {
+  height: 24px;
+  width: 24px;
+  animation-delay: -17s;
+  transform: translate3d(690px, 967px, 1866px);
+  background: hsl(138, 70%, 50%);
+}
+#main .bubble:nth-child(86) {
+  height: 14px;
+  width: 14px;
   animation-delay: -17.2s;
-  transform: translate3d(443px, 888px, 1471px);
-  background: hsl(299, 70%, 50%);
+  transform: translate3d(392px, 380px, 307px);
+  background: hsl(104, 70%, 50%);
 }
 #main .bubble:nth-child(87) {
-  height: 22px;
-  width: 22px;
+  height: 4px;
+  width: 4px;
   animation-delay: -17.4s;
-  transform: translate3d(600px, 360px, 628px);
-  background: hsl(20, 70%, 50%);
+  transform: translate3d(821px, 123px, 271px);
+  background: hsl(284, 70%, 50%);
 }
 #main .bubble:nth-child(88) {
   height: 20px;
   width: 20px;
   animation-delay: -17.6s;
-  transform: translate3d(45px, 390px, 114px);
-  background: hsl(141, 70%, 50%);
+  transform: translate3d(5px, 331px, 1921px);
+  background: hsl(335, 70%, 50%);
 }
 #main .bubble:nth-child(89) {
   height: 5px;
   width: 5px;
   animation-delay: -17.8s;
-  transform: translate3d(540px, 989px, 1730px);
-  background: hsl(80, 70%, 50%);
+  transform: translate3d(752px, 657px, 1145px);
+  background: hsl(123, 70%, 50%);
 }
 #main .bubble:nth-child(90) {
-  height: 21px;
-  width: 21px;
+  height: 11px;
+  width: 11px;
   animation-delay: -18s;
-  transform: translate3d(466px, 934px, 1079px);
-  background: hsl(227, 70%, 50%);
+  transform: translate3d(539px, 786px, 826px);
+  background: hsl(325, 70%, 50%);
 }
 #main .bubble:nth-child(91) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -18.2s;
-  transform: translate3d(722px, 487px, 42px);
-  background: hsl(277, 70%, 50%);
-}
-#main .bubble:nth-child(92) {
-  height: 22px;
-  width: 22px;
-  animation-delay: -18.4s;
-  transform: translate3d(853px, 677px, 736px);
-  background: hsl(358, 70%, 50%);
-}
-#main .bubble:nth-child(93) {
-  height: 12px;
-  width: 12px;
-  animation-delay: -18.6s;
-  transform: translate3d(537px, 852px, 105px);
-  background: hsl(253, 70%, 50%);
-}
-#main .bubble:nth-child(94) {
-  height: 29px;
-  width: 29px;
-  animation-delay: -18.8s;
-  transform: translate3d(912px, 673px, 1153px);
-  background: hsl(232, 70%, 50%);
-}
-#main .bubble:nth-child(95) {
   height: 19px;
   width: 19px;
+  animation-delay: -18.2s;
+  transform: translate3d(720px, 379px, 620px);
+  background: hsl(14, 70%, 50%);
+}
+#main .bubble:nth-child(92) {
+  height: 8px;
+  width: 8px;
+  animation-delay: -18.4s;
+  transform: translate3d(257px, 3px, 787px);
+  background: hsl(102, 70%, 50%);
+}
+#main .bubble:nth-child(93) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -18.6s;
+  transform: translate3d(566px, 943px, 1101px);
+  background: hsl(29, 70%, 50%);
+}
+#main .bubble:nth-child(94) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -18.8s;
+  transform: translate3d(624px, 220px, 948px);
+  background: hsl(5, 70%, 50%);
+}
+#main .bubble:nth-child(95) {
+  height: 30px;
+  width: 30px;
   animation-delay: -19s;
-  transform: translate3d(986px, 639px, 116px);
-  background: hsl(218, 70%, 50%);
+  transform: translate3d(437px, 751px, 193px);
+  background: hsl(335, 70%, 50%);
 }
 #main .bubble:nth-child(96) {
-  height: 25px;
-  width: 25px;
+  height: 17px;
+  width: 17px;
   animation-delay: -19.2s;
-  transform: translate3d(424px, 349px, 588px);
-  background: hsl(93, 70%, 50%);
+  transform: translate3d(586px, 424px, 120px);
+  background: hsl(112, 70%, 50%);
 }
 #main .bubble:nth-child(97) {
-  height: 10px;
-  width: 10px;
+  height: 16px;
+  width: 16px;
   animation-delay: -19.4s;
-  transform: translate3d(406px, 654px, 653px);
-  background: hsl(137, 70%, 50%);
+  transform: translate3d(902px, 507px, 909px);
+  background: hsl(103, 70%, 50%);
 }
 #main .bubble:nth-child(98) {
-  height: 12px;
-  width: 12px;
+  height: 5px;
+  width: 5px;
   animation-delay: -19.6s;
-  transform: translate3d(462px, 210px, 1730px);
-  background: hsl(194, 70%, 50%);
+  transform: translate3d(588px, 684px, 1650px);
+  background: hsl(133, 70%, 50%);
 }
 #main .bubble:nth-child(99) {
-  height: 28px;
-  width: 28px;
+  height: 9px;
+  width: 9px;
   animation-delay: -19.8s;
-  transform: translate3d(731px, 592px, 1158px);
-  background: hsl(44, 70%, 50%);
+  transform: translate3d(21px, 430px, 932px);
+  background: hsl(127, 70%, 50%);
 }
 #main .bubble:nth-child(100) {
-  height: 3px;
-  width: 3px;
+  height: 30px;
+  width: 30px;
   animation-delay: -20s;
-  transform: translate3d(539px, 765px, 1346px);
-  background: hsl(59, 70%, 50%);
+  transform: translate3d(724px, 273px, 1918px);
+  background: hsl(146, 70%, 50%);
 }
 #main .main_p_g {
   font-family: "Notable", sans-serif;
@@ -1287,704 +1287,704 @@ legend {
   animation: move 3s infinite;
 }
 #contact .bubble:nth-child(1) {
-  height: 26px;
-  width: 26px;
+  height: 27px;
+  width: 27px;
   animation-delay: -0.2s;
-  transform: translate3d(100px, 383px, 1149px);
-  background: hsl(58, 70%, 50%);
+  transform: translate3d(54px, 181px, 1554px);
+  background: hsl(358, 70%, 50%);
 }
 #contact .bubble:nth-child(2) {
-  height: 25px;
-  width: 25px;
-  animation-delay: -0.4s;
-  transform: translate3d(305px, 598px, 733px);
-  background: hsl(148, 70%, 50%);
-}
-#contact .bubble:nth-child(3) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -0.6s;
-  transform: translate3d(576px, 930px, 1459px);
-  background: hsl(268, 70%, 50%);
-}
-#contact .bubble:nth-child(4) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -0.8s;
-  transform: translate3d(934px, 212px, 1218px);
-  background: hsl(107, 70%, 50%);
-}
-#contact .bubble:nth-child(5) {
-  height: 30px;
-  width: 30px;
-  animation-delay: -1s;
-  transform: translate3d(258px, 381px, 742px);
-  background: hsl(223, 70%, 50%);
-}
-#contact .bubble:nth-child(6) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -1.2s;
-  transform: translate3d(715px, 351px, 902px);
-  background: hsl(290, 70%, 50%);
-}
-#contact .bubble:nth-child(7) {
-  height: 16px;
-  width: 16px;
-  animation-delay: -1.4s;
-  transform: translate3d(128px, 865px, 1924px);
-  background: hsl(223, 70%, 50%);
-}
-#contact .bubble:nth-child(8) {
-  height: 2px;
-  width: 2px;
-  animation-delay: -1.6s;
-  transform: translate3d(727px, 587px, 1511px);
-  background: hsl(301, 70%, 50%);
-}
-#contact .bubble:nth-child(9) {
-  height: 24px;
-  width: 24px;
-  animation-delay: -1.8s;
-  transform: translate3d(63px, 213px, 1135px);
-  background: hsl(307, 70%, 50%);
-}
-#contact .bubble:nth-child(10) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -2s;
-  transform: translate3d(573px, 498px, 1432px);
-  background: hsl(278, 70%, 50%);
-}
-#contact .bubble:nth-child(11) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -2.2s;
-  transform: translate3d(817px, 608px, 1279px);
-  background: hsl(298, 70%, 50%);
-}
-#contact .bubble:nth-child(12) {
-  height: 30px;
-  width: 30px;
-  animation-delay: -2.4s;
-  transform: translate3d(720px, 997px, 276px);
-  background: hsl(272, 70%, 50%);
-}
-#contact .bubble:nth-child(13) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -2.6s;
-  transform: translate3d(455px, 806px, 974px);
-  background: hsl(359, 70%, 50%);
-}
-#contact .bubble:nth-child(14) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -2.8s;
-  transform: translate3d(666px, 643px, 1466px);
-  background: hsl(155, 70%, 50%);
-}
-#contact .bubble:nth-child(15) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -3s;
-  transform: translate3d(666px, 924px, 105px);
-  background: hsl(260, 70%, 50%);
-}
-#contact .bubble:nth-child(16) {
   height: 19px;
   width: 19px;
-  animation-delay: -3.2s;
-  transform: translate3d(704px, 190px, 1147px);
-  background: hsl(203, 70%, 50%);
+  animation-delay: -0.4s;
+  transform: translate3d(449px, 730px, 928px);
+  background: hsl(137, 70%, 50%);
 }
-#contact .bubble:nth-child(17) {
+#contact .bubble:nth-child(3) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -0.6s;
+  transform: translate3d(830px, 257px, 234px);
+  background: hsl(199, 70%, 50%);
+}
+#contact .bubble:nth-child(4) {
+  height: 23px;
+  width: 23px;
+  animation-delay: -0.8s;
+  transform: translate3d(784px, 666px, 1132px);
+  background: hsl(78, 70%, 50%);
+}
+#contact .bubble:nth-child(5) {
+  height: 21px;
+  width: 21px;
+  animation-delay: -1s;
+  transform: translate3d(563px, 561px, 1944px);
+  background: hsl(247, 70%, 50%);
+}
+#contact .bubble:nth-child(6) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -1.2s;
+  transform: translate3d(527px, 303px, 1143px);
+  background: hsl(243, 70%, 50%);
+}
+#contact .bubble:nth-child(7) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -1.4s;
+  transform: translate3d(41px, 658px, 1074px);
+  background: hsl(69, 70%, 50%);
+}
+#contact .bubble:nth-child(8) {
+  height: 4px;
+  width: 4px;
+  animation-delay: -1.6s;
+  transform: translate3d(414px, 425px, 529px);
+  background: hsl(323, 70%, 50%);
+}
+#contact .bubble:nth-child(9) {
   height: 15px;
   width: 15px;
-  animation-delay: -3.4s;
-  transform: translate3d(360px, 861px, 1350px);
-  background: hsl(184, 70%, 50%);
+  animation-delay: -1.8s;
+  transform: translate3d(784px, 925px, 1421px);
+  background: hsl(45, 70%, 50%);
 }
-#contact .bubble:nth-child(18) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -3.6s;
-  transform: translate3d(940px, 146px, 1447px);
-  background: hsl(212, 70%, 50%);
+#contact .bubble:nth-child(10) {
+  height: 8px;
+  width: 8px;
+  animation-delay: -2s;
+  transform: translate3d(816px, 108px, 1953px);
+  background: hsl(286, 70%, 50%);
 }
-#contact .bubble:nth-child(19) {
+#contact .bubble:nth-child(11) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -2.2s;
+  transform: translate3d(121px, 938px, 902px);
+  background: hsl(197, 70%, 50%);
+}
+#contact .bubble:nth-child(12) {
+  height: 3px;
+  width: 3px;
+  animation-delay: -2.4s;
+  transform: translate3d(90px, 812px, 1083px);
+  background: hsl(216, 70%, 50%);
+}
+#contact .bubble:nth-child(13) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -2.6s;
+  transform: translate3d(719px, 823px, 510px);
+  background: hsl(87, 70%, 50%);
+}
+#contact .bubble:nth-child(14) {
   height: 13px;
   width: 13px;
-  animation-delay: -3.8s;
-  transform: translate3d(192px, 310px, 1474px);
-  background: hsl(130, 70%, 50%);
+  animation-delay: -2.8s;
+  transform: translate3d(88px, 217px, 207px);
+  background: hsl(158, 70%, 50%);
 }
-#contact .bubble:nth-child(20) {
-  height: 29px;
-  width: 29px;
-  animation-delay: -4s;
-  transform: translate3d(65px, 459px, 1503px);
-  background: hsl(293, 70%, 50%);
+#contact .bubble:nth-child(15) {
+  height: 4px;
+  width: 4px;
+  animation-delay: -3s;
+  transform: translate3d(33px, 304px, 1606px);
+  background: hsl(80, 70%, 50%);
 }
-#contact .bubble:nth-child(21) {
+#contact .bubble:nth-child(16) {
   height: 6px;
   width: 6px;
+  animation-delay: -3.2s;
+  transform: translate3d(890px, 366px, 1838px);
+  background: hsl(318, 70%, 50%);
+}
+#contact .bubble:nth-child(17) {
+  height: 8px;
+  width: 8px;
+  animation-delay: -3.4s;
+  transform: translate3d(720px, 981px, 769px);
+  background: hsl(249, 70%, 50%);
+}
+#contact .bubble:nth-child(18) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -3.6s;
+  transform: translate3d(630px, 660px, 1817px);
+  background: hsl(94, 70%, 50%);
+}
+#contact .bubble:nth-child(19) {
+  height: 18px;
+  width: 18px;
+  animation-delay: -3.8s;
+  transform: translate3d(101px, 813px, 1359px);
+  background: hsl(281, 70%, 50%);
+}
+#contact .bubble:nth-child(20) {
+  height: 30px;
+  width: 30px;
+  animation-delay: -4s;
+  transform: translate3d(327px, 325px, 355px);
+  background: hsl(247, 70%, 50%);
+}
+#contact .bubble:nth-child(21) {
+  height: 29px;
+  width: 29px;
   animation-delay: -4.2s;
-  transform: translate3d(177px, 288px, 1200px);
-  background: hsl(303, 70%, 50%);
+  transform: translate3d(296px, 418px, 1826px);
+  background: hsl(195, 70%, 50%);
 }
 #contact .bubble:nth-child(22) {
   height: 14px;
   width: 14px;
   animation-delay: -4.4s;
-  transform: translate3d(338px, 633px, 372px);
-  background: hsl(307, 70%, 50%);
+  transform: translate3d(699px, 758px, 935px);
+  background: hsl(289, 70%, 50%);
 }
 #contact .bubble:nth-child(23) {
-  height: 25px;
-  width: 25px;
-  animation-delay: -4.6s;
-  transform: translate3d(705px, 798px, 817px);
-  background: hsl(20, 70%, 50%);
-}
-#contact .bubble:nth-child(24) {
-  height: 19px;
-  width: 19px;
-  animation-delay: -4.8s;
-  transform: translate3d(528px, 886px, 578px);
-  background: hsl(301, 70%, 50%);
-}
-#contact .bubble:nth-child(25) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -5s;
-  transform: translate3d(673px, 296px, 1306px);
-  background: hsl(163, 70%, 50%);
-}
-#contact .bubble:nth-child(26) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -5.2s;
-  transform: translate3d(323px, 219px, 615px);
-  background: hsl(341, 70%, 50%);
-}
-#contact .bubble:nth-child(27) {
   height: 1px;
   width: 1px;
+  animation-delay: -4.6s;
+  transform: translate3d(623px, 110px, 113px);
+  background: hsl(153, 70%, 50%);
+}
+#contact .bubble:nth-child(24) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -4.8s;
+  transform: translate3d(958px, 520px, 1973px);
+  background: hsl(23, 70%, 50%);
+}
+#contact .bubble:nth-child(25) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -5s;
+  transform: translate3d(62px, 367px, 275px);
+  background: hsl(271, 70%, 50%);
+}
+#contact .bubble:nth-child(26) {
+  height: 26px;
+  width: 26px;
+  animation-delay: -5.2s;
+  transform: translate3d(875px, 365px, 1437px);
+  background: hsl(80, 70%, 50%);
+}
+#contact .bubble:nth-child(27) {
+  height: 14px;
+  width: 14px;
   animation-delay: -5.4s;
-  transform: translate3d(337px, 895px, 704px);
-  background: hsl(344, 70%, 50%);
+  transform: translate3d(99px, 998px, 1459px);
+  background: hsl(37, 70%, 50%);
 }
 #contact .bubble:nth-child(28) {
   height: 14px;
   width: 14px;
   animation-delay: -5.6s;
-  transform: translate3d(236px, 859px, 129px);
-  background: hsl(300, 70%, 50%);
+  transform: translate3d(216px, 707px, 1154px);
+  background: hsl(74, 70%, 50%);
 }
 #contact .bubble:nth-child(29) {
-  height: 28px;
-  width: 28px;
+  height: 25px;
+  width: 25px;
   animation-delay: -5.8s;
-  transform: translate3d(876px, 752px, 1407px);
-  background: hsl(180, 70%, 50%);
+  transform: translate3d(527px, 511px, 701px);
+  background: hsl(1, 70%, 50%);
 }
 #contact .bubble:nth-child(30) {
-  height: 22px;
-  width: 22px;
-  animation-delay: -6s;
-  transform: translate3d(294px, 436px, 513px);
-  background: hsl(143, 70%, 50%);
-}
-#contact .bubble:nth-child(31) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -6.2s;
-  transform: translate3d(215px, 466px, 914px);
-  background: hsl(62, 70%, 50%);
-}
-#contact .bubble:nth-child(32) {
-  height: 16px;
-  width: 16px;
-  animation-delay: -6.4s;
-  transform: translate3d(641px, 550px, 686px);
-  background: hsl(181, 70%, 50%);
-}
-#contact .bubble:nth-child(33) {
-  height: 20px;
-  width: 20px;
-  animation-delay: -6.6s;
-  transform: translate3d(438px, 522px, 159px);
-  background: hsl(187, 70%, 50%);
-}
-#contact .bubble:nth-child(34) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -6.8s;
-  transform: translate3d(664px, 763px, 1410px);
-  background: hsl(108, 70%, 50%);
-}
-#contact .bubble:nth-child(35) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -7s;
-  transform: translate3d(67px, 117px, 794px);
-  background: hsl(200, 70%, 50%);
-}
-#contact .bubble:nth-child(36) {
-  height: 29px;
-  width: 29px;
-  animation-delay: -7.2s;
-  transform: translate3d(956px, 451px, 182px);
-  background: hsl(260, 70%, 50%);
-}
-#contact .bubble:nth-child(37) {
-  height: 13px;
-  width: 13px;
-  animation-delay: -7.4s;
-  transform: translate3d(938px, 81px, 245px);
-  background: hsl(98, 70%, 50%);
-}
-#contact .bubble:nth-child(38) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -7.6s;
-  transform: translate3d(415px, 333px, 1953px);
-  background: hsl(195, 70%, 50%);
-}
-#contact .bubble:nth-child(39) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -7.8s;
-  transform: translate3d(543px, 335px, 651px);
-  background: hsl(311, 70%, 50%);
-}
-#contact .bubble:nth-child(40) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -8s;
-  transform: translate3d(931px, 642px, 487px);
-  background: hsl(221, 70%, 50%);
-}
-#contact .bubble:nth-child(41) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -8.2s;
-  transform: translate3d(910px, 675px, 1678px);
-  background: hsl(142, 70%, 50%);
-}
-#contact .bubble:nth-child(42) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -8.4s;
-  transform: translate3d(301px, 767px, 1945px);
-  background: hsl(186, 70%, 50%);
-}
-#contact .bubble:nth-child(43) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -8.6s;
-  transform: translate3d(132px, 574px, 1596px);
-  background: hsl(79, 70%, 50%);
-}
-#contact .bubble:nth-child(44) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -8.8s;
-  transform: translate3d(949px, 539px, 818px);
-  background: hsl(317, 70%, 50%);
-}
-#contact .bubble:nth-child(45) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -9s;
-  transform: translate3d(630px, 51px, 267px);
-  background: hsl(39, 70%, 50%);
-}
-#contact .bubble:nth-child(46) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -9.2s;
-  transform: translate3d(986px, 809px, 1490px);
-  background: hsl(357, 70%, 50%);
-}
-#contact .bubble:nth-child(47) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -9.4s;
-  transform: translate3d(804px, 11px, 580px);
-  background: hsl(69, 70%, 50%);
-}
-#contact .bubble:nth-child(48) {
   height: 5px;
   width: 5px;
-  animation-delay: -9.6s;
-  transform: translate3d(727px, 750px, 1120px);
-  background: hsl(129, 70%, 50%);
-}
-#contact .bubble:nth-child(49) {
-  height: 6px;
-  width: 6px;
-  animation-delay: -9.8s;
-  transform: translate3d(127px, 90px, 1835px);
-  background: hsl(45, 70%, 50%);
-}
-#contact .bubble:nth-child(50) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -10s;
-  transform: translate3d(111px, 839px, 1747px);
-  background: hsl(280, 70%, 50%);
-}
-#contact .bubble:nth-child(51) {
-  height: 26px;
-  width: 26px;
-  animation-delay: -10.2s;
-  transform: translate3d(14px, 581px, 1098px);
-  background: hsl(189, 70%, 50%);
-}
-#contact .bubble:nth-child(52) {
-  height: 2px;
-  width: 2px;
-  animation-delay: -10.4s;
-  transform: translate3d(733px, 800px, 636px);
-  background: hsl(311, 70%, 50%);
-}
-#contact .bubble:nth-child(53) {
-  height: 16px;
-  width: 16px;
-  animation-delay: -10.6s;
-  transform: translate3d(347px, 364px, 149px);
-  background: hsl(232, 70%, 50%);
-}
-#contact .bubble:nth-child(54) {
-  height: 28px;
-  width: 28px;
-  animation-delay: -10.8s;
-  transform: translate3d(397px, 569px, 1375px);
-  background: hsl(173, 70%, 50%);
-}
-#contact .bubble:nth-child(55) {
-  height: 19px;
-  width: 19px;
-  animation-delay: -11s;
-  transform: translate3d(350px, 895px, 1425px);
+  animation-delay: -6s;
+  transform: translate3d(19px, 895px, 1239px);
   background: hsl(58, 70%, 50%);
 }
-#contact .bubble:nth-child(56) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -11.2s;
-  transform: translate3d(67px, 134px, 644px);
-  background: hsl(98, 70%, 50%);
-}
-#contact .bubble:nth-child(57) {
+#contact .bubble:nth-child(31) {
   height: 4px;
   width: 4px;
-  animation-delay: -11.4s;
-  transform: translate3d(802px, 352px, 291px);
-  background: hsl(7, 70%, 50%);
+  animation-delay: -6.2s;
+  transform: translate3d(315px, 90px, 314px);
+  background: hsl(293, 70%, 50%);
 }
-#contact .bubble:nth-child(58) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -11.6s;
-  transform: translate3d(988px, 784px, 383px);
-  background: hsl(208, 70%, 50%);
-}
-#contact .bubble:nth-child(59) {
-  height: 10px;
-  width: 10px;
-  animation-delay: -11.8s;
-  transform: translate3d(49px, 735px, 1360px);
-  background: hsl(92, 70%, 50%);
-}
-#contact .bubble:nth-child(60) {
-  height: 26px;
-  width: 26px;
-  animation-delay: -12s;
-  transform: translate3d(87px, 172px, 214px);
-  background: hsl(122, 70%, 50%);
-}
-#contact .bubble:nth-child(61) {
+#contact .bubble:nth-child(32) {
   height: 1px;
   width: 1px;
+  animation-delay: -6.4s;
+  transform: translate3d(207px, 985px, 1911px);
+  background: hsl(61, 70%, 50%);
+}
+#contact .bubble:nth-child(33) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -6.6s;
+  transform: translate3d(917px, 105px, 1507px);
+  background: hsl(104, 70%, 50%);
+}
+#contact .bubble:nth-child(34) {
+  height: 4px;
+  width: 4px;
+  animation-delay: -6.8s;
+  transform: translate3d(397px, 564px, 1602px);
+  background: hsl(66, 70%, 50%);
+}
+#contact .bubble:nth-child(35) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -7s;
+  transform: translate3d(417px, 387px, 1137px);
+  background: hsl(347, 70%, 50%);
+}
+#contact .bubble:nth-child(36) {
+  height: 26px;
+  width: 26px;
+  animation-delay: -7.2s;
+  transform: translate3d(157px, 485px, 1960px);
+  background: hsl(48, 70%, 50%);
+}
+#contact .bubble:nth-child(37) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -7.4s;
+  transform: translate3d(573px, 245px, 207px);
+  background: hsl(148, 70%, 50%);
+}
+#contact .bubble:nth-child(38) {
+  height: 17px;
+  width: 17px;
+  animation-delay: -7.6s;
+  transform: translate3d(563px, 596px, 2000px);
+  background: hsl(138, 70%, 50%);
+}
+#contact .bubble:nth-child(39) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -7.8s;
+  transform: translate3d(375px, 900px, 336px);
+  background: hsl(132, 70%, 50%);
+}
+#contact .bubble:nth-child(40) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -8s;
+  transform: translate3d(380px, 456px, 762px);
+  background: hsl(336, 70%, 50%);
+}
+#contact .bubble:nth-child(41) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -8.2s;
+  transform: translate3d(132px, 344px, 1522px);
+  background: hsl(12, 70%, 50%);
+}
+#contact .bubble:nth-child(42) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -8.4s;
+  transform: translate3d(860px, 708px, 1856px);
+  background: hsl(222, 70%, 50%);
+}
+#contact .bubble:nth-child(43) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -8.6s;
+  transform: translate3d(160px, 723px, 1228px);
+  background: hsl(257, 70%, 50%);
+}
+#contact .bubble:nth-child(44) {
+  height: 6px;
+  width: 6px;
+  animation-delay: -8.8s;
+  transform: translate3d(113px, 823px, 1530px);
+  background: hsl(107, 70%, 50%);
+}
+#contact .bubble:nth-child(45) {
+  height: 23px;
+  width: 23px;
+  animation-delay: -9s;
+  transform: translate3d(732px, 800px, 1069px);
+  background: hsl(329, 70%, 50%);
+}
+#contact .bubble:nth-child(46) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -9.2s;
+  transform: translate3d(329px, 298px, 426px);
+  background: hsl(255, 70%, 50%);
+}
+#contact .bubble:nth-child(47) {
+  height: 9px;
+  width: 9px;
+  animation-delay: -9.4s;
+  transform: translate3d(17px, 795px, 1160px);
+  background: hsl(224, 70%, 50%);
+}
+#contact .bubble:nth-child(48) {
+  height: 26px;
+  width: 26px;
+  animation-delay: -9.6s;
+  transform: translate3d(808px, 927px, 301px);
+  background: hsl(213, 70%, 50%);
+}
+#contact .bubble:nth-child(49) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -9.8s;
+  transform: translate3d(916px, 408px, 331px);
+  background: hsl(210, 70%, 50%);
+}
+#contact .bubble:nth-child(50) {
+  height: 3px;
+  width: 3px;
+  animation-delay: -10s;
+  transform: translate3d(341px, 577px, 1398px);
+  background: hsl(27, 70%, 50%);
+}
+#contact .bubble:nth-child(51) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -10.2s;
+  transform: translate3d(982px, 85px, 699px);
+  background: hsl(4, 70%, 50%);
+}
+#contact .bubble:nth-child(52) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -10.4s;
+  transform: translate3d(746px, 363px, 1108px);
+  background: hsl(176, 70%, 50%);
+}
+#contact .bubble:nth-child(53) {
+  height: 7px;
+  width: 7px;
+  animation-delay: -10.6s;
+  transform: translate3d(771px, 955px, 1789px);
+  background: hsl(105, 70%, 50%);
+}
+#contact .bubble:nth-child(54) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -10.8s;
+  transform: translate3d(834px, 450px, 397px);
+  background: hsl(346, 70%, 50%);
+}
+#contact .bubble:nth-child(55) {
+  height: 12px;
+  width: 12px;
+  animation-delay: -11s;
+  transform: translate3d(941px, 118px, 1604px);
+  background: hsl(6, 70%, 50%);
+}
+#contact .bubble:nth-child(56) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -11.2s;
+  transform: translate3d(774px, 412px, 633px);
+  background: hsl(291, 70%, 50%);
+}
+#contact .bubble:nth-child(57) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -11.4s;
+  transform: translate3d(429px, 420px, 891px);
+  background: hsl(260, 70%, 50%);
+}
+#contact .bubble:nth-child(58) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -11.6s;
+  transform: translate3d(200px, 982px, 307px);
+  background: hsl(64, 70%, 50%);
+}
+#contact .bubble:nth-child(59) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -11.8s;
+  transform: translate3d(959px, 674px, 1529px);
+  background: hsl(305, 70%, 50%);
+}
+#contact .bubble:nth-child(60) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -12s;
+  transform: translate3d(198px, 707px, 1924px);
+  background: hsl(295, 70%, 50%);
+}
+#contact .bubble:nth-child(61) {
+  height: 17px;
+  width: 17px;
   animation-delay: -12.2s;
-  transform: translate3d(235px, 810px, 4px);
-  background: hsl(21, 70%, 50%);
+  transform: translate3d(353px, 714px, 1971px);
+  background: hsl(227, 70%, 50%);
 }
 #contact .bubble:nth-child(62) {
   height: 3px;
   width: 3px;
   animation-delay: -12.4s;
-  transform: translate3d(571px, 808px, 1017px);
-  background: hsl(146, 70%, 50%);
+  transform: translate3d(518px, 369px, 1796px);
+  background: hsl(340, 70%, 50%);
 }
 #contact .bubble:nth-child(63) {
-  height: 5px;
-  width: 5px;
+  height: 27px;
+  width: 27px;
   animation-delay: -12.6s;
-  transform: translate3d(918px, 523px, 543px);
-  background: hsl(176, 70%, 50%);
+  transform: translate3d(217px, 526px, 949px);
+  background: hsl(186, 70%, 50%);
 }
 #contact .bubble:nth-child(64) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -12.8s;
-  transform: translate3d(632px, 751px, 887px);
-  background: hsl(160, 70%, 50%);
-}
-#contact .bubble:nth-child(65) {
-  height: 6px;
-  width: 6px;
-  animation-delay: -13s;
-  transform: translate3d(457px, 49px, 1972px);
-  background: hsl(236, 70%, 50%);
-}
-#contact .bubble:nth-child(66) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -13.2s;
-  transform: translate3d(259px, 554px, 1357px);
-  background: hsl(273, 70%, 50%);
-}
-#contact .bubble:nth-child(67) {
-  height: 28px;
-  width: 28px;
-  animation-delay: -13.4s;
-  transform: translate3d(206px, 995px, 744px);
-  background: hsl(194, 70%, 50%);
-}
-#contact .bubble:nth-child(68) {
-  height: 22px;
-  width: 22px;
-  animation-delay: -13.6s;
-  transform: translate3d(257px, 215px, 1062px);
-  background: hsl(223, 70%, 50%);
-}
-#contact .bubble:nth-child(69) {
-  height: 2px;
-  width: 2px;
-  animation-delay: -13.8s;
-  transform: translate3d(315px, 367px, 134px);
-  background: hsl(55, 70%, 50%);
-}
-#contact .bubble:nth-child(70) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -14s;
-  transform: translate3d(634px, 198px, 1151px);
-  background: hsl(60, 70%, 50%);
-}
-#contact .bubble:nth-child(71) {
-  height: 6px;
-  width: 6px;
-  animation-delay: -14.2s;
-  transform: translate3d(611px, 185px, 1574px);
-  background: hsl(107, 70%, 50%);
-}
-#contact .bubble:nth-child(72) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -14.4s;
-  transform: translate3d(96px, 291px, 930px);
-  background: hsl(66, 70%, 50%);
-}
-#contact .bubble:nth-child(73) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -14.6s;
-  transform: translate3d(318px, 589px, 1343px);
-  background: hsl(207, 70%, 50%);
-}
-#contact .bubble:nth-child(74) {
   height: 8px;
   width: 8px;
+  animation-delay: -12.8s;
+  transform: translate3d(521px, 491px, 500px);
+  background: hsl(0, 70%, 50%);
+}
+#contact .bubble:nth-child(65) {
+  height: 24px;
+  width: 24px;
+  animation-delay: -13s;
+  transform: translate3d(231px, 977px, 852px);
+  background: hsl(31, 70%, 50%);
+}
+#contact .bubble:nth-child(66) {
+  height: 24px;
+  width: 24px;
+  animation-delay: -13.2s;
+  transform: translate3d(784px, 474px, 1678px);
+  background: hsl(78, 70%, 50%);
+}
+#contact .bubble:nth-child(67) {
+  height: 8px;
+  width: 8px;
+  animation-delay: -13.4s;
+  transform: translate3d(899px, 838px, 1109px);
+  background: hsl(97, 70%, 50%);
+}
+#contact .bubble:nth-child(68) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -13.6s;
+  transform: translate3d(655px, 297px, 1137px);
+  background: hsl(1, 70%, 50%);
+}
+#contact .bubble:nth-child(69) {
+  height: 21px;
+  width: 21px;
+  animation-delay: -13.8s;
+  transform: translate3d(39px, 142px, 1356px);
+  background: hsl(270, 70%, 50%);
+}
+#contact .bubble:nth-child(70) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -14s;
+  transform: translate3d(6px, 272px, 1987px);
+  background: hsl(116, 70%, 50%);
+}
+#contact .bubble:nth-child(71) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -14.2s;
+  transform: translate3d(833px, 898px, 45px);
+  background: hsl(301, 70%, 50%);
+}
+#contact .bubble:nth-child(72) {
+  height: 6px;
+  width: 6px;
+  animation-delay: -14.4s;
+  transform: translate3d(370px, 823px, 817px);
+  background: hsl(81, 70%, 50%);
+}
+#contact .bubble:nth-child(73) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -14.6s;
+  transform: translate3d(260px, 554px, 223px);
+  background: hsl(300, 70%, 50%);
+}
+#contact .bubble:nth-child(74) {
+  height: 11px;
+  width: 11px;
   animation-delay: -14.8s;
-  transform: translate3d(397px, 425px, 1108px);
-  background: hsl(199, 70%, 50%);
+  transform: translate3d(877px, 246px, 1856px);
+  background: hsl(92, 70%, 50%);
 }
 #contact .bubble:nth-child(75) {
-  height: 29px;
-  width: 29px;
+  height: 13px;
+  width: 13px;
   animation-delay: -15s;
-  transform: translate3d(788px, 770px, 21px);
-  background: hsl(290, 70%, 50%);
+  transform: translate3d(920px, 354px, 1200px);
+  background: hsl(347, 70%, 50%);
 }
 #contact .bubble:nth-child(76) {
   height: 21px;
   width: 21px;
   animation-delay: -15.2s;
-  transform: translate3d(221px, 636px, 354px);
-  background: hsl(18, 70%, 50%);
+  transform: translate3d(579px, 819px, 617px);
+  background: hsl(27, 70%, 50%);
 }
 #contact .bubble:nth-child(77) {
-  height: 15px;
-  width: 15px;
+  height: 29px;
+  width: 29px;
   animation-delay: -15.4s;
-  transform: translate3d(627px, 449px, 1620px);
-  background: hsl(344, 70%, 50%);
+  transform: translate3d(287px, 945px, 194px);
+  background: hsl(243, 70%, 50%);
 }
 #contact .bubble:nth-child(78) {
-  height: 7px;
-  width: 7px;
+  height: 19px;
+  width: 19px;
   animation-delay: -15.6s;
-  transform: translate3d(444px, 958px, 1439px);
-  background: hsl(356, 70%, 50%);
+  transform: translate3d(419px, 331px, 1269px);
+  background: hsl(271, 70%, 50%);
 }
 #contact .bubble:nth-child(79) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -15.8s;
-  transform: translate3d(86px, 896px, 1620px);
-  background: hsl(47, 70%, 50%);
-}
-#contact .bubble:nth-child(80) {
-  height: 2px;
-  width: 2px;
-  animation-delay: -16s;
-  transform: translate3d(117px, 806px, 1095px);
-  background: hsl(9, 70%, 50%);
-}
-#contact .bubble:nth-child(81) {
-  height: 12px;
-  width: 12px;
-  animation-delay: -16.2s;
-  transform: translate3d(89px, 427px, 1833px);
-  background: hsl(130, 70%, 50%);
-}
-#contact .bubble:nth-child(82) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -16.4s;
-  transform: translate3d(771px, 228px, 937px);
-  background: hsl(8, 70%, 50%);
-}
-#contact .bubble:nth-child(83) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -16.6s;
-  transform: translate3d(723px, 772px, 1244px);
-  background: hsl(268, 70%, 50%);
-}
-#contact .bubble:nth-child(84) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -16.8s;
-  transform: translate3d(516px, 459px, 654px);
-  background: hsl(60, 70%, 50%);
-}
-#contact .bubble:nth-child(85) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -17s;
-  transform: translate3d(776px, 534px, 1886px);
-  background: hsl(204, 70%, 50%);
-}
-#contact .bubble:nth-child(86) {
-  height: 5px;
-  width: 5px;
-  animation-delay: -17.2s;
-  transform: translate3d(161px, 245px, 783px);
-  background: hsl(294, 70%, 50%);
-}
-#contact .bubble:nth-child(87) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -17.4s;
-  transform: translate3d(311px, 247px, 319px);
-  background: hsl(313, 70%, 50%);
-}
-#contact .bubble:nth-child(88) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -17.6s;
-  transform: translate3d(928px, 902px, 325px);
-  background: hsl(217, 70%, 50%);
-}
-#contact .bubble:nth-child(89) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -17.8s;
-  transform: translate3d(232px, 571px, 531px);
-  background: hsl(167, 70%, 50%);
-}
-#contact .bubble:nth-child(90) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -18s;
-  transform: translate3d(614px, 935px, 1905px);
-  background: hsl(103, 70%, 50%);
-}
-#contact .bubble:nth-child(91) {
   height: 27px;
   width: 27px;
-  animation-delay: -18.2s;
-  transform: translate3d(52px, 132px, 1058px);
-  background: hsl(283, 70%, 50%);
+  animation-delay: -15.8s;
+  transform: translate3d(684px, 404px, 594px);
+  background: hsl(246, 70%, 50%);
 }
-#contact .bubble:nth-child(92) {
-  height: 20px;
-  width: 20px;
-  animation-delay: -18.4s;
-  transform: translate3d(972px, 565px, 235px);
-  background: hsl(170, 70%, 50%);
-}
-#contact .bubble:nth-child(93) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -18.6s;
-  transform: translate3d(912px, 961px, 397px);
-  background: hsl(247, 70%, 50%);
-}
-#contact .bubble:nth-child(94) {
+#contact .bubble:nth-child(80) {
   height: 24px;
   width: 24px;
-  animation-delay: -18.8s;
-  transform: translate3d(340px, 5px, 147px);
-  background: hsl(44, 70%, 50%);
+  animation-delay: -16s;
+  transform: translate3d(756px, 66px, 942px);
+  background: hsl(313, 70%, 50%);
 }
-#contact .bubble:nth-child(95) {
-  height: 24px;
-  width: 24px;
-  animation-delay: -19s;
-  transform: translate3d(471px, 736px, 1162px);
-  background: hsl(306, 70%, 50%);
-}
-#contact .bubble:nth-child(96) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -19.2s;
-  transform: translate3d(335px, 528px, 297px);
-  background: hsl(318, 70%, 50%);
-}
-#contact .bubble:nth-child(97) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -19.4s;
-  transform: translate3d(803px, 788px, 338px);
-  background: hsl(179, 70%, 50%);
-}
-#contact .bubble:nth-child(98) {
-  height: 16px;
-  width: 16px;
-  animation-delay: -19.6s;
-  transform: translate3d(848px, 859px, 1714px);
-  background: hsl(358, 70%, 50%);
-}
-#contact .bubble:nth-child(99) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -19.8s;
-  transform: translate3d(969px, 115px, 1670px);
-  background: hsl(125, 70%, 50%);
-}
-#contact .bubble:nth-child(100) {
+#contact .bubble:nth-child(81) {
   height: 3px;
   width: 3px;
+  animation-delay: -16.2s;
+  transform: translate3d(305px, 400px, 749px);
+  background: hsl(43, 70%, 50%);
+}
+#contact .bubble:nth-child(82) {
+  height: 25px;
+  width: 25px;
+  animation-delay: -16.4s;
+  transform: translate3d(284px, 932px, 441px);
+  background: hsl(117, 70%, 50%);
+}
+#contact .bubble:nth-child(83) {
+  height: 7px;
+  width: 7px;
+  animation-delay: -16.6s;
+  transform: translate3d(350px, 411px, 1181px);
+  background: hsl(237, 70%, 50%);
+}
+#contact .bubble:nth-child(84) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -16.8s;
+  transform: translate3d(744px, 330px, 1889px);
+  background: hsl(74, 70%, 50%);
+}
+#contact .bubble:nth-child(85) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -17s;
+  transform: translate3d(79px, 159px, 647px);
+  background: hsl(314, 70%, 50%);
+}
+#contact .bubble:nth-child(86) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -17.2s;
+  transform: translate3d(272px, 39px, 1093px);
+  background: hsl(228, 70%, 50%);
+}
+#contact .bubble:nth-child(87) {
+  height: 23px;
+  width: 23px;
+  animation-delay: -17.4s;
+  transform: translate3d(965px, 614px, 1561px);
+  background: hsl(204, 70%, 50%);
+}
+#contact .bubble:nth-child(88) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -17.6s;
+  transform: translate3d(844px, 277px, 33px);
+  background: hsl(84, 70%, 50%);
+}
+#contact .bubble:nth-child(89) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -17.8s;
+  transform: translate3d(709px, 342px, 428px);
+  background: hsl(291, 70%, 50%);
+}
+#contact .bubble:nth-child(90) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -18s;
+  transform: translate3d(86px, 519px, 1327px);
+  background: hsl(36, 70%, 50%);
+}
+#contact .bubble:nth-child(91) {
+  height: 24px;
+  width: 24px;
+  animation-delay: -18.2s;
+  transform: translate3d(391px, 701px, 790px);
+  background: hsl(230, 70%, 50%);
+}
+#contact .bubble:nth-child(92) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -18.4s;
+  transform: translate3d(907px, 528px, 1375px);
+  background: hsl(4, 70%, 50%);
+}
+#contact .bubble:nth-child(93) {
+  height: 4px;
+  width: 4px;
+  animation-delay: -18.6s;
+  transform: translate3d(741px, 234px, 1981px);
+  background: hsl(147, 70%, 50%);
+}
+#contact .bubble:nth-child(94) {
+  height: 10px;
+  width: 10px;
+  animation-delay: -18.8s;
+  transform: translate3d(377px, 335px, 883px);
+  background: hsl(115, 70%, 50%);
+}
+#contact .bubble:nth-child(95) {
+  height: 6px;
+  width: 6px;
+  animation-delay: -19s;
+  transform: translate3d(910px, 644px, 1507px);
+  background: hsl(270, 70%, 50%);
+}
+#contact .bubble:nth-child(96) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -19.2s;
+  transform: translate3d(344px, 136px, 1866px);
+  background: hsl(208, 70%, 50%);
+}
+#contact .bubble:nth-child(97) {
+  height: 30px;
+  width: 30px;
+  animation-delay: -19.4s;
+  transform: translate3d(614px, 695px, 347px);
+  background: hsl(208, 70%, 50%);
+}
+#contact .bubble:nth-child(98) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -19.6s;
+  transform: translate3d(929px, 145px, 894px);
+  background: hsl(274, 70%, 50%);
+}
+#contact .bubble:nth-child(99) {
+  height: 30px;
+  width: 30px;
+  animation-delay: -19.8s;
+  transform: translate3d(411px, 884px, 282px);
+  background: hsl(249, 70%, 50%);
+}
+#contact .bubble:nth-child(100) {
+  height: 22px;
+  width: 22px;
   animation-delay: -20s;
-  transform: translate3d(597px, 593px, 529px);
-  background: hsl(242, 70%, 50%);
+  transform: translate3d(837px, 518px, 1222px);
+  background: hsl(152, 70%, 50%);
 }
 #contact .contact_salute {
   color: #000;
