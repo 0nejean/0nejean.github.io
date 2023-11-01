@@ -16,9 +16,15 @@
 }
 
 .container {
-  padding: 1%;
+  padding: 2%;
   h2 {
     position: absolute;
     text-indent: -9999px;
   }
+}
+
+.swiper-horizontal .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+  .swiper-pagination-bullet {
+  background: black;
 }
