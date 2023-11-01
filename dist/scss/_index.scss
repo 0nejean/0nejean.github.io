@@ -142,8 +142,8 @@
       display: block;
       text-indent: -9999px;
       background: url(../images/mainimage.png) 0 0 / cover no-repeat;
-      width: 600px;
-      height: 400px;
+      width: 37.5rem;
+      height: 25rem;
     }
   }
 }
@@ -475,33 +475,10 @@
         }
       }
     }
-    .about_bottom {
-      .about_img {
-        right: 32%;
-      }
-    }
-  }
-  #contact {
-    .salute_line {
-      left: 16.7%;
-    }
   }
 }
 
 @media screen and (max-width: 1440px) {
-  #hook {
-    .hook_img {
-      bottom: 0%;
-      width: 43.75rem;
-      height: 34.375rem;
-    }
-  }
-  #main {
-    .main_img {
-      width: 40.625rem;
-      height: 28.125rem;
-    }
-  }
   #about {
     .about_top {
       .swiper {
@@ -511,24 +488,10 @@
       }
     }
   }
-  #contact {
-    .salute_line {
-      left: 17.5%;
-    }
-  }
 }
 
 //MacbookAir
 @media screen and (max-width: 1280px) {
-  #main {
-    .main_name {
-      font-size: 5rem;
-    }
-    .main_portfolio {
-      top: 27.5%;
-      font-size: 5rem;
-    }
-  }
   #about {
     .about_top {
       .swiper {
@@ -549,76 +512,53 @@
         }
       }
     }
-    .about_img {
-      width: 34.375rem;
-      height: 25rem;
-    }
   }
   #work {
     .work_top {
-      .work_container img {
-        width: 252px;
-        height: 210px;
+      .work_container {
+        img {
+          width: 252px;
+          height: 210px;
+        }
       }
-    }
-  }
-  #contact {
-    .contact_salute {
-      font-size: 2.5rem;
-    }
-    .salute_line {
-      left: 15.9%;
-      height: 6rem;
-    }
-    .contact_pagelogo {
-      top: 30%;
-      font-size: 5.625rem;
     }
   }
 }
 
 @media screen and (max-width: 1024px) {
   #hook {
-    #header {
-      .nav {
-        .nav-bar_ul {
-          .nav-bar_li {
-            padding: 0 3% 0 0;
-          }
+    .hook_top {
+      .hook_txt_container {
+        .hook_letter {
+          margin: 1.55%;
         }
       }
     }
-    .hook_copy {
-      font-size: 5rem;
-      left: 3%;
-    }
-    .hook_letter {
-      top: 6%;
-      left: 4%;
-      font-size: 1rem;
-    }
-    .hook_img {
-      width: 600px;
-      height: 450px;
-    }
-    #footer_top {
-      font-size: 13.5px;
-      padding: 82vh 0 0 2%;
+    .hook_bottom {
+      .site_sign_top {
+        font-size: 0.875rem;
+      }
+      .hook_img {
+        width: 31.25rem;
+        height: 21.875rem;
+      }
     }
   }
+
   #main {
-    .main_img {
-      width: 550px;
-      height: 350px;
-      right: 10%;
+    .main_left {
+      .main_name {
+        font-size: 3.75rem;
+      }
+      .main_portfolio {
+        font-size: 3.75rem;
+      }
     }
-    .main_name {
-      font-size: 75px;
-      left: 3%;
-    }
-    .main_portfolio {
-      font-size: 75px;
-      left: 3%;
+    .main_right {
+      .main_img {
+        width: 34.375rem;
+        height: 21.875rem;
+      }
     }
   }
   #about {
@@ -643,12 +583,11 @@
     }
     .about_bottom {
       .about_img {
-        width: 550px;
-        height: 350px;
-        right: 25%;
+        width: 28.125rem;
+        height: 18.75rem;
       }
       .about_pagelogo {
-        font-size: 2.5rem;
+        font-size: 3.75rem;
       }
     }
   }
@@ -656,44 +595,48 @@
     .work_top {
       .work_container {
         img {
-          width: 200px;
-          height: 180px;
+          width: 12.5rem;
+          height: 11.25rem;
         }
         .work4_lazuli {
           padding: 3.75rem 0 3.5rem 0;
           img {
-            height: 170px;
+            height: 10.625rem;
           }
         }
       }
     }
     .work_bottom {
       .work_img {
-        bottom: 0%;
-        width: 34.375rem;
-        height: 350px;
+        width: 450px;
+        height: 300px;
       }
       .work_pagelogo {
-        font-size: 2.5rem;
+        font-size: 3.75rem;
       }
     }
   }
 
   #contact {
-    .contact_salute {
-      left: 3%;
+    .contact_container {
+      .contact_salute {
+        font-size: 2.5rem;
+      }
+      .contact_left {
+        .contact_pagelogo {
+          font-size: 3.75rem;
+        }
+      }
     }
-    .salute_line {
-      left: 20.5%;
-    }
+  }
+
+  #contact {
     .contact_pagelogo {
-      font-size: 75px;
-      left: 3%;
+      font-size: 3.75rem;
     }
     .contact_img {
-      bottom: 0%;
-      width: 600px;
-      height: 450px;
+      width: 31.25rem;
+      height: 21.875rem;
     }
   }
 }
