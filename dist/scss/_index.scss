@@ -644,32 +644,47 @@
 //TABLET
 @media screen and (max-width: 768px) {
   #hook {
-    .hook_copy {
-      font-size: 4rem;
+    .hook_top {
+      .hook_txt_container {
+        width: 60%;
+        .hook_copy {
+          font-size: 3.7rem;
+        }
+        .hook_letter {
+          margin: 3%;
+          font-size: 0.875rem;
+        }
+      }
+      .hook_nav {
+        width: 40%;
+      }
     }
-    .hook_letter {
-      top: 4%;
-      left: 3%;
-    }
-    .hook_img {
-      right: 3%;
-    }
-    #footer_top {
-      font-size: 13.5px;
-      font-weight: 200;
-      padding: 15vh 0 0 4%;
+    .hook_bottom {
+      .site_sign_top {
+        font-size: 0.75rem;
+      }
+      .hook_img {
+        width: 20rem;
+        height: 15rem;
+      }
     }
   }
+
   #main {
-    .main_img {
-      right: 15%;
+    .main_left {
+      .main_name {
+        font-size: 3rem;
+      }
+      .main_portfolio {
+        font-size: 2.8rem;
+      }
     }
   }
   #about {
     .about_top {
       .swiper {
         .swiper-slide:first-child {
-          width: 45%;
+          width: 50%;
         }
         .swiper-slide:nth-child(2) {
           width: 120%;
@@ -687,9 +702,11 @@
     }
     .about_bottom {
       .about_img {
-        width: 550px;
-        height: 350px;
-        right: 30%;
+        width: 21.875rem;
+        height: 12.5rem;
+      }
+      .about_pagelogo {
+        font-size: 3rem;
       }
     }
   }
@@ -712,18 +729,39 @@
         }
       }
     }
+    .work_bottom {
+      .work_img {
+        width: 21.875rem;
+        height: 12.5rem;
+      }
+      .work_pagelogo {
+        font-size: 3rem;
+      }
+    }
   }
+
   #contact {
+    .contact_container {
+      .contact_left {
+        .salute {
+          .contact_salute {
+            font-size: 2rem;
+          }
+          .salute_line {
+            height: 5rem;
+          }
+        }
+        .contact_pagelogo {
+          font-size: 2.83rem;
+        }
+      }
+    }
     .contact_img {
-      bottom: 0%;
-      right: 11%;
+      width: 30rem;
+      height: 21rem;
     }
-    .salute_line {
-      left: 26.3%;
-    }
-    #footer_bottom {
-      font-size: 13.5px;
-      font-weight: 200;
+    .site_sign_bottom {
+      font-size: 14px;
     }
   }
 }
