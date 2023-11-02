@@ -567,7 +567,12 @@
   #hook {
     .hook_top {
       .hook_txt_container {
+        padding: 2% 0 0 2%;
+        .hook_copy {
+          font-size: 4rem;
+        }
         .hook_letter {
+          font-size: 1rem;
           margin: 1.55%;
         }
       }
@@ -675,27 +680,31 @@
 @media screen and (max-width: 768px) {
   #hook {
     .hook_top {
-      .hook_txt_container {
-        width: 60%;
-        .hook_copy {
-          font-size: 3.7rem;
-        }
-        .hook_letter {
-          margin: 3%;
-          font-size: 0.875rem;
+      flex-direction: column-reverse;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      .hook_nav {
+        .nav-bar_ul {
+          .nav-bar_li {
+            padding: 7%;
+          }
         }
       }
-      .hook_nav {
-        width: 40%;
+      .hook_txt_container {
+        padding: 20% 0 0 10%;
+        .hook_copy {
+          font-size: 3.5rem;
+        }
+        .hook_letter {
+          margin: 2.5%;
+          font-size: 0.8rem;
+        }
       }
     }
     .hook_bottom {
       .site_sign_top {
-        font-size: 0.75rem;
-      }
-      .hook_img {
-        width: 20rem;
-        height: 15rem;
+        font-size: 0.7rem;
       }
     }
   }
@@ -802,19 +811,8 @@
 @media screen and (max-width: 480px) {
   #hook {
     .hook_top {
-      flex-direction: column-reverse;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      .hook_nav {
-        .nav-bar_ul {
-          .nav-bar_li {
-            padding: 7%;
-          }
-        }
-      }
       .hook_txt_container {
-        padding-top: 45%;
+        padding: 37% 0 0 5%;
         .hook_copy {
           font-size: 2.5rem;
         }
@@ -827,8 +825,13 @@
       .site_sign_top {
         font-size: 0.6rem;
       }
+      .hook_img {
+        width: 400px;
+        height: 250px;
+      }
     }
   }
+
   #main {
     .main_left {
       .main_name {
@@ -933,13 +936,144 @@
 
 @media screen and (max-width: 375px) {
   #hook {
+    .hook_top {
+      .hook_txt_container {
+        .hook_copy {
+          font-size: 2rem;
+        }
+        .hook_letter {
+          font-size: 0.47rem;
+        }
+      }
+    }
+    .hook_nav {
+      .nav-bar_ul {
+        .nav-bar_li {
+          padding: 10%;
+        }
+      }
+    }
+    .hook_bottom {
+      .site_sign_top {
+        font-size: 0.67rem;
+      }
+      .hook_img {
+        width: 300px;
+        height: 200px;
+      }
+    }
   }
   #main {
+    .main_left {
+      .main_name {
+        font-size: 2rem;
+      }
+      .main_portfolio {
+        font-size: 2.3rem;
+      }
+    }
+    .main_right {
+      .main_img {
+        padding-right: 40%;
+        width: 300px;
+        height: 250px;
+      }
+    }
   }
   #about {
+    .about_top {
+      .swiper {
+        .swiper-slide {
+          margin-top: 21%;
+          height: 200px;
+          &:first-child {
+            width: 55%;
+          }
+          &:nth-child(2) {
+            width: 130%;
+          }
+          &:nth-child(3) {
+            width: 90%;
+          }
+          &:nth-child(4) {
+            width: 90%;
+          }
+          &:nth-child(5) {
+            width: 70%;
+          }
+        }
+      }
+    }
+    .about_bottom {
+      .about_img {
+        width: 18.75rem;
+        height: 7.5rem;
+      }
+      .about_pagelogo {
+        font-size: 2rem;
+      }
+    }
   }
   #work {
+    height: 120vh;
+    .work_top {
+      margin: 0%;
+      .work_container {
+        column-gap: 0%;
+        h3 {
+          font-size: 14px;
+        }
+        .work4_lazuli {
+          margin-bottom: 0rem;
+        }
+        .work_link {
+          width: 6.375rem;
+          height: 0.375rem;
+          line-height: 7px;
+          padding: 0.625rem;
+          margin-top: 10px;
+        }
+      }
+    }
+    .work_bottom {
+      .work_img {
+        width: 18.75rem;
+        height: 7.5rem;
+      }
+      .work_pagelogo {
+        font-size: 2rem;
+      }
+    }
   }
   #contact {
+    .contact_container {
+      .contact_left {
+        .salute {
+          .contact_salute {
+            font-size: 1.5rem;
+          }
+          .salute_line {
+            width: 0.2rem;
+            height: 3.7rem;
+          }
+        }
+        .contact_pagelogo {
+          font-size: 2.1rem;
+          -webkit-text-stroke: 0.1rem;
+          color: transparent;
+          -webkit-text-stroke-color: var(--main-font-color);
+        }
+      }
+      .contact_right {
+        .contact_img {
+          padding: 0 80% 0 0;
+          width: 250px;
+          height: 300px;
+        }
+      }
+    }
+    .site_sign_bottom {
+      font-size: 7.5px;
+    }
   }
 }
