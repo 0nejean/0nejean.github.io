@@ -395,704 +395,704 @@ legend {
   animation: move 3s infinite;
 }
 #main .main_right .bubble-container .bubble:nth-child(1) {
-  height: 30px;
-  width: 30px;
+  height: 14px;
+  width: 14px;
   animation-delay: -0.2s;
-  transform: translate3d(520px, 186px, 757px);
-  background: hsl(104, 70%, 50%);
+  transform: translate3d(993px, 622px, 274px);
+  background: hsl(51, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(2) {
-  height: 12px;
-  width: 12px;
+  height: 5px;
+  width: 5px;
   animation-delay: -0.4s;
-  transform: translate3d(987px, 482px, 659px);
-  background: hsl(177, 70%, 50%);
+  transform: translate3d(749px, 948px, 1519px);
+  background: hsl(210, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(3) {
-  height: 26px;
-  width: 26px;
+  height: 13px;
+  width: 13px;
   animation-delay: -0.6s;
-  transform: translate3d(793px, 331px, 38px);
-  background: hsl(181, 70%, 50%);
+  transform: translate3d(398px, 174px, 884px);
+  background: hsl(180, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(4) {
-  height: 10px;
-  width: 10px;
+  height: 20px;
+  width: 20px;
   animation-delay: -0.8s;
-  transform: translate3d(602px, 854px, 351px);
-  background: hsl(75, 70%, 50%);
+  transform: translate3d(122px, 92px, 709px);
+  background: hsl(109, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(5) {
-  height: 9px;
-  width: 9px;
+  height: 10px;
+  width: 10px;
   animation-delay: -1s;
-  transform: translate3d(536px, 622px, 145px);
-  background: hsl(23, 70%, 50%);
+  transform: translate3d(920px, 720px, 382px);
+  background: hsl(134, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(6) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -1.2s;
-  transform: translate3d(436px, 131px, 333px);
-  background: hsl(175, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(7) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -1.4s;
-  transform: translate3d(157px, 69px, 1013px);
-  background: hsl(307, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(8) {
   height: 3px;
   width: 3px;
+  animation-delay: -1.2s;
+  transform: translate3d(727px, 626px, 204px);
+  background: hsl(322, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(7) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -1.4s;
+  transform: translate3d(243px, 903px, 517px);
+  background: hsl(99, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(8) {
+  height: 9px;
+  width: 9px;
   animation-delay: -1.6s;
-  transform: translate3d(416px, 966px, 187px);
-  background: hsl(46, 70%, 50%);
+  transform: translate3d(767px, 435px, 448px);
+  background: hsl(303, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(9) {
-  height: 27px;
-  width: 27px;
+  height: 30px;
+  width: 30px;
   animation-delay: -1.8s;
-  transform: translate3d(842px, 650px, 1119px);
-  background: hsl(84, 70%, 50%);
+  transform: translate3d(488px, 934px, 468px);
+  background: hsl(145, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(10) {
   height: 15px;
   width: 15px;
   animation-delay: -2s;
-  transform: translate3d(161px, 61px, 505px);
-  background: hsl(320, 70%, 50%);
+  transform: translate3d(576px, 287px, 33px);
+  background: hsl(105, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(11) {
-  height: 24px;
-  width: 24px;
-  animation-delay: -2.2s;
-  transform: translate3d(610px, 508px, 1764px);
-  background: hsl(120, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(12) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -2.4s;
-  transform: translate3d(421px, 272px, 321px);
-  background: hsl(300, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(13) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -2.6s;
-  transform: translate3d(424px, 573px, 448px);
-  background: hsl(202, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(14) {
-  height: 12px;
-  width: 12px;
-  animation-delay: -2.8s;
-  transform: translate3d(125px, 682px, 983px);
-  background: hsl(31, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(15) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -3s;
-  transform: translate3d(13px, 609px, 322px);
-  background: hsl(30, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(16) {
   height: 1px;
   width: 1px;
-  animation-delay: -3.2s;
-  transform: translate3d(234px, 646px, 1895px);
-  background: hsl(16, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(17) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -3.4s;
-  transform: translate3d(132px, 44px, 757px);
-  background: hsl(79, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(18) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -3.6s;
-  transform: translate3d(253px, 636px, 1915px);
-  background: hsl(18, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(19) {
-  height: 12px;
-  width: 12px;
-  animation-delay: -3.8s;
-  transform: translate3d(815px, 717px, 878px);
-  background: hsl(342, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(20) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -4s;
-  transform: translate3d(236px, 509px, 1232px);
-  background: hsl(193, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(21) {
-  height: 26px;
-  width: 26px;
-  animation-delay: -4.2s;
-  transform: translate3d(307px, 683px, 413px);
-  background: hsl(69, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(22) {
-  height: 25px;
-  width: 25px;
-  animation-delay: -4.4s;
-  transform: translate3d(496px, 313px, 1520px);
-  background: hsl(184, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(23) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -4.6s;
-  transform: translate3d(455px, 260px, 121px);
-  background: hsl(264, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(24) {
-  height: 19px;
-  width: 19px;
-  animation-delay: -4.8s;
-  transform: translate3d(278px, 775px, 1386px);
-  background: hsl(191, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(25) {
-  height: 30px;
-  width: 30px;
-  animation-delay: -5s;
-  transform: translate3d(81px, 881px, 1737px);
-  background: hsl(312, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(26) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -5.2s;
-  transform: translate3d(305px, 26px, 618px);
-  background: hsl(76, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(27) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -5.4s;
-  transform: translate3d(311px, 287px, 958px);
-  background: hsl(255, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(28) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -5.6s;
-  transform: translate3d(405px, 287px, 1807px);
-  background: hsl(189, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(29) {
-  height: 13px;
-  width: 13px;
-  animation-delay: -5.8s;
-  transform: translate3d(583px, 969px, 1479px);
-  background: hsl(174, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(30) {
-  height: 12px;
-  width: 12px;
-  animation-delay: -6s;
-  transform: translate3d(606px, 587px, 1783px);
-  background: hsl(205, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(31) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -6.2s;
-  transform: translate3d(729px, 111px, 383px);
-  background: hsl(69, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(32) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -6.4s;
-  transform: translate3d(124px, 47px, 327px);
-  background: hsl(245, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(33) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -6.6s;
-  transform: translate3d(510px, 296px, 1823px);
-  background: hsl(270, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(34) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -6.8s;
-  transform: translate3d(998px, 736px, 365px);
-  background: hsl(136, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(35) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -7s;
-  transform: translate3d(333px, 215px, 388px);
-  background: hsl(71, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(36) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -7.2s;
-  transform: translate3d(773px, 963px, 1914px);
-  background: hsl(218, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(37) {
-  height: 22px;
-  width: 22px;
-  animation-delay: -7.4s;
-  transform: translate3d(341px, 988px, 426px);
-  background: hsl(100, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(38) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -7.6s;
-  transform: translate3d(48px, 821px, 1742px);
-  background: hsl(298, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(39) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -7.8s;
-  transform: translate3d(287px, 148px, 1984px);
+  animation-delay: -2.2s;
+  transform: translate3d(824px, 649px, 1579px);
   background: hsl(321, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(40) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -8s;
-  transform: translate3d(35px, 375px, 816px);
-  background: hsl(248, 70%, 50%);
+#main .main_right .bubble-container .bubble:nth-child(12) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -2.4s;
+  transform: translate3d(134px, 518px, 790px);
+  background: hsl(6, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(41) {
+#main .main_right .bubble-container .bubble:nth-child(13) {
+  height: 5px;
+  width: 5px;
+  animation-delay: -2.6s;
+  transform: translate3d(396px, 293px, 1937px);
+  background: hsl(127, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(14) {
+  height: 18px;
+  width: 18px;
+  animation-delay: -2.8s;
+  transform: translate3d(518px, 530px, 120px);
+  background: hsl(352, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(15) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -3s;
+  transform: translate3d(725px, 631px, 1086px);
+  background: hsl(189, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(16) {
+  height: 8px;
+  width: 8px;
+  animation-delay: -3.2s;
+  transform: translate3d(864px, 104px, 1206px);
+  background: hsl(117, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(17) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -3.4s;
+  transform: translate3d(50px, 673px, 443px);
+  background: hsl(167, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(18) {
+  height: 24px;
+  width: 24px;
+  animation-delay: -3.6s;
+  transform: translate3d(814px, 429px, 110px);
+  background: hsl(56, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(19) {
+  height: 3px;
+  width: 3px;
+  animation-delay: -3.8s;
+  transform: translate3d(509px, 979px, 239px);
+  background: hsl(9, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(20) {
+  height: 23px;
+  width: 23px;
+  animation-delay: -4s;
+  transform: translate3d(164px, 135px, 509px);
+  background: hsl(17, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(21) {
+  height: 23px;
+  width: 23px;
+  animation-delay: -4.2s;
+  transform: translate3d(223px, 305px, 116px);
+  background: hsl(315, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(22) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -4.4s;
+  transform: translate3d(688px, 760px, 1994px);
+  background: hsl(303, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(23) {
+  height: 30px;
+  width: 30px;
+  animation-delay: -4.6s;
+  transform: translate3d(133px, 189px, 1302px);
+  background: hsl(137, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(24) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -4.8s;
+  transform: translate3d(924px, 209px, 710px);
+  background: hsl(349, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(25) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -5s;
+  transform: translate3d(701px, 678px, 1093px);
+  background: hsl(232, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(26) {
+  height: 25px;
+  width: 25px;
+  animation-delay: -5.2s;
+  transform: translate3d(701px, 293px, 515px);
+  background: hsl(57, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(27) {
+  height: 12px;
+  width: 12px;
+  animation-delay: -5.4s;
+  transform: translate3d(160px, 53px, 1234px);
+  background: hsl(118, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(28) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -5.6s;
+  transform: translate3d(194px, 238px, 1240px);
+  background: hsl(50, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(29) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -5.8s;
+  transform: translate3d(510px, 701px, 800px);
+  background: hsl(226, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(30) {
   height: 16px;
   width: 16px;
+  animation-delay: -6s;
+  transform: translate3d(576px, 292px, 1065px);
+  background: hsl(332, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(31) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -6.2s;
+  transform: translate3d(274px, 978px, 66px);
+  background: hsl(245, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(32) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -6.4s;
+  transform: translate3d(48px, 506px, 20px);
+  background: hsl(8, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(33) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -6.6s;
+  transform: translate3d(682px, 169px, 1513px);
+  background: hsl(76, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(34) {
+  height: 25px;
+  width: 25px;
+  animation-delay: -6.8s;
+  transform: translate3d(348px, 588px, 1445px);
+  background: hsl(149, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(35) {
+  height: 9px;
+  width: 9px;
+  animation-delay: -7s;
+  transform: translate3d(18px, 746px, 1947px);
+  background: hsl(333, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(36) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -7.2s;
+  transform: translate3d(339px, 918px, 1260px);
+  background: hsl(16, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(37) {
+  height: 25px;
+  width: 25px;
+  animation-delay: -7.4s;
+  transform: translate3d(153px, 348px, 1009px);
+  background: hsl(63, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(38) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -7.6s;
+  transform: translate3d(378px, 835px, 507px);
+  background: hsl(221, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(39) {
+  height: 29px;
+  width: 29px;
+  animation-delay: -7.8s;
+  transform: translate3d(733px, 548px, 1392px);
+  background: hsl(67, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(40) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -8s;
+  transform: translate3d(663px, 150px, 49px);
+  background: hsl(174, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(41) {
+  height: 18px;
+  width: 18px;
   animation-delay: -8.2s;
-  transform: translate3d(438px, 502px, 340px);
-  background: hsl(136, 70%, 50%);
+  transform: translate3d(20px, 215px, 671px);
+  background: hsl(35, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(42) {
-  height: 13px;
-  width: 13px;
+  height: 17px;
+  width: 17px;
   animation-delay: -8.4s;
-  transform: translate3d(420px, 620px, 1124px);
-  background: hsl(61, 70%, 50%);
+  transform: translate3d(459px, 270px, 482px);
+  background: hsl(17, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(43) {
-  height: 6px;
-  width: 6px;
+  height: 11px;
+  width: 11px;
   animation-delay: -8.6s;
-  transform: translate3d(790px, 403px, 1087px);
-  background: hsl(251, 70%, 50%);
+  transform: translate3d(235px, 882px, 1697px);
+  background: hsl(310, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(44) {
   height: 15px;
   width: 15px;
   animation-delay: -8.8s;
-  transform: translate3d(798px, 163px, 1750px);
-  background: hsl(158, 70%, 50%);
+  transform: translate3d(488px, 516px, 1260px);
+  background: hsl(101, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(45) {
-  height: 1px;
-  width: 1px;
+  height: 18px;
+  width: 18px;
   animation-delay: -9s;
-  transform: translate3d(504px, 875px, 1594px);
+  transform: translate3d(84px, 565px, 1092px);
   background: hsl(103, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(46) {
-  height: 20px;
-  width: 20px;
+  height: 6px;
+  width: 6px;
   animation-delay: -9.2s;
-  transform: translate3d(132px, 547px, 1054px);
-  background: hsl(115, 70%, 50%);
+  transform: translate3d(774px, 368px, 1761px);
+  background: hsl(244, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(47) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -9.4s;
-  transform: translate3d(292px, 677px, 66px);
-  background: hsl(326, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(48) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -9.6s;
-  transform: translate3d(447px, 14px, 1164px);
-  background: hsl(348, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(49) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -9.8s;
-  transform: translate3d(171px, 108px, 315px);
-  background: hsl(272, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(50) {
   height: 21px;
   width: 21px;
-  animation-delay: -10s;
-  transform: translate3d(121px, 341px, 1488px);
-  background: hsl(117, 70%, 50%);
+  animation-delay: -9.4s;
+  transform: translate3d(414px, 178px, 562px);
+  background: hsl(355, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(51) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -10.2s;
-  transform: translate3d(382px, 663px, 1754px);
-  background: hsl(208, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(52) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -10.4s;
-  transform: translate3d(285px, 525px, 1340px);
-  background: hsl(52, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(53) {
-  height: 19px;
-  width: 19px;
-  animation-delay: -10.6s;
-  transform: translate3d(232px, 402px, 1082px);
-  background: hsl(45, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(54) {
-  height: 28px;
-  width: 28px;
-  animation-delay: -10.8s;
-  transform: translate3d(224px, 387px, 1791px);
-  background: hsl(16, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(55) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -11s;
-  transform: translate3d(827px, 225px, 742px);
-  background: hsl(190, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(56) {
-  height: 26px;
-  width: 26px;
-  animation-delay: -11.2s;
-  transform: translate3d(652px, 415px, 767px);
-  background: hsl(342, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(57) {
-  height: 20px;
-  width: 20px;
-  animation-delay: -11.4s;
-  transform: translate3d(36px, 749px, 1129px);
-  background: hsl(312, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(58) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -11.6s;
-  transform: translate3d(114px, 457px, 819px);
-  background: hsl(310, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(59) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -11.8s;
-  transform: translate3d(631px, 523px, 581px);
-  background: hsl(191, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(60) {
+#main .main_right .bubble-container .bubble:nth-child(48) {
   height: 5px;
   width: 5px;
-  animation-delay: -12s;
-  transform: translate3d(258px, 32px, 474px);
-  background: hsl(182, 70%, 50%);
+  animation-delay: -9.6s;
+  transform: translate3d(623px, 360px, 1360px);
+  background: hsl(351, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(61) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -12.2s;
-  transform: translate3d(679px, 31px, 8px);
-  background: hsl(293, 70%, 50%);
+#main .main_right .bubble-container .bubble:nth-child(49) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -9.8s;
+  transform: translate3d(824px, 600px, 929px);
+  background: hsl(316, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(62) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -12.4s;
-  transform: translate3d(700px, 26px, 1215px);
-  background: hsl(155, 70%, 50%);
+#main .main_right .bubble-container .bubble:nth-child(50) {
+  height: 4px;
+  width: 4px;
+  animation-delay: -10s;
+  transform: translate3d(210px, 561px, 1546px);
+  background: hsl(291, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(63) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -12.6s;
-  transform: translate3d(324px, 803px, 1043px);
-  background: hsl(289, 70%, 50%);
+#main .main_right .bubble-container .bubble:nth-child(51) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -10.2s;
+  transform: translate3d(629px, 845px, 1428px);
+  background: hsl(307, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(64) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -12.8s;
-  transform: translate3d(718px, 102px, 1727px);
-  background: hsl(345, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(65) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -13s;
-  transform: translate3d(461px, 662px, 1357px);
-  background: hsl(114, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(66) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -13.2s;
-  transform: translate3d(919px, 568px, 1713px);
-  background: hsl(159, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(67) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -13.4s;
-  transform: translate3d(161px, 187px, 395px);
-  background: hsl(332, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(68) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -13.6s;
-  transform: translate3d(248px, 719px, 1468px);
-  background: hsl(41, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(69) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -13.8s;
-  transform: translate3d(416px, 559px, 1173px);
-  background: hsl(25, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(70) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -14s;
-  transform: translate3d(456px, 1px, 1173px);
-  background: hsl(256, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(71) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -14.2s;
-  transform: translate3d(202px, 397px, 165px);
-  background: hsl(141, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(72) {
+#main .main_right .bubble-container .bubble:nth-child(52) {
   height: 28px;
   width: 28px;
-  animation-delay: -14.4s;
-  transform: translate3d(131px, 184px, 1636px);
-  background: hsl(78, 70%, 50%);
+  animation-delay: -10.4s;
+  transform: translate3d(991px, 711px, 988px);
+  background: hsl(260, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(73) {
-  height: 10px;
-  width: 10px;
-  animation-delay: -14.6s;
-  transform: translate3d(358px, 974px, 256px);
-  background: hsl(5, 70%, 50%);
+#main .main_right .bubble-container .bubble:nth-child(53) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -10.6s;
+  transform: translate3d(213px, 511px, 1230px);
+  background: hsl(278, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(74) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -14.8s;
-  transform: translate3d(2px, 430px, 804px);
-  background: hsl(208, 70%, 50%);
+#main .main_right .bubble-container .bubble:nth-child(54) {
+  height: 4px;
+  width: 4px;
+  animation-delay: -10.8s;
+  transform: translate3d(352px, 1000px, 390px);
+  background: hsl(89, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(75) {
-  height: 29px;
-  width: 29px;
-  animation-delay: -15s;
-  transform: translate3d(692px, 770px, 725px);
-  background: hsl(200, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(76) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -15.2s;
-  transform: translate3d(627px, 568px, 776px);
-  background: hsl(201, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(77) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -15.4s;
-  transform: translate3d(997px, 550px, 1063px);
-  background: hsl(305, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(78) {
+#main .main_right .bubble-container .bubble:nth-child(55) {
   height: 17px;
   width: 17px;
-  animation-delay: -15.6s;
-  transform: translate3d(38px, 785px, 1580px);
-  background: hsl(42, 70%, 50%);
+  animation-delay: -11s;
+  transform: translate3d(184px, 269px, 400px);
+  background: hsl(234, 70%, 50%);
 }
-#main .main_right .bubble-container .bubble:nth-child(79) {
+#main .main_right .bubble-container .bubble:nth-child(56) {
+  height: 17px;
+  width: 17px;
+  animation-delay: -11.2s;
+  transform: translate3d(149px, 718px, 1693px);
+  background: hsl(202, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(57) {
+  height: 10px;
+  width: 10px;
+  animation-delay: -11.4s;
+  transform: translate3d(365px, 260px, 253px);
+  background: hsl(55, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(58) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -11.6s;
+  transform: translate3d(721px, 361px, 749px);
+  background: hsl(14, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(59) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -11.8s;
+  transform: translate3d(73px, 896px, 505px);
+  background: hsl(32, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(60) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -12s;
+  transform: translate3d(221px, 370px, 1865px);
+  background: hsl(300, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(61) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -12.2s;
+  transform: translate3d(693px, 690px, 971px);
+  background: hsl(189, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(62) {
+  height: 20px;
+  width: 20px;
+  animation-delay: -12.4s;
+  transform: translate3d(360px, 747px, 1216px);
+  background: hsl(185, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(63) {
+  height: 24px;
+  width: 24px;
+  animation-delay: -12.6s;
+  transform: translate3d(37px, 491px, 1953px);
+  background: hsl(47, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(64) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -12.8s;
+  transform: translate3d(883px, 186px, 749px);
+  background: hsl(292, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(65) {
+  height: 17px;
+  width: 17px;
+  animation-delay: -13s;
+  transform: translate3d(103px, 231px, 341px);
+  background: hsl(268, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(66) {
+  height: 21px;
+  width: 21px;
+  animation-delay: -13.2s;
+  transform: translate3d(126px, 275px, 449px);
+  background: hsl(21, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(67) {
+  height: 30px;
+  width: 30px;
+  animation-delay: -13.4s;
+  transform: translate3d(998px, 556px, 1970px);
+  background: hsl(308, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(68) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -13.6s;
+  transform: translate3d(997px, 920px, 1464px);
+  background: hsl(323, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(69) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -13.8s;
+  transform: translate3d(378px, 176px, 1677px);
+  background: hsl(94, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(70) {
+  height: 21px;
+  width: 21px;
+  animation-delay: -14s;
+  transform: translate3d(906px, 581px, 1300px);
+  background: hsl(62, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(71) {
+  height: 25px;
+  width: 25px;
+  animation-delay: -14.2s;
+  transform: translate3d(745px, 496px, 610px);
+  background: hsl(134, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(72) {
   height: 7px;
   width: 7px;
+  animation-delay: -14.4s;
+  transform: translate3d(902px, 594px, 1190px);
+  background: hsl(73, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(73) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -14.6s;
+  transform: translate3d(234px, 356px, 227px);
+  background: hsl(12, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(74) {
+  height: 12px;
+  width: 12px;
+  animation-delay: -14.8s;
+  transform: translate3d(923px, 885px, 1867px);
+  background: hsl(138, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(75) {
+  height: 5px;
+  width: 5px;
+  animation-delay: -15s;
+  transform: translate3d(128px, 654px, 275px);
+  background: hsl(96, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(76) {
+  height: 18px;
+  width: 18px;
+  animation-delay: -15.2s;
+  transform: translate3d(592px, 699px, 1980px);
+  background: hsl(149, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(77) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -15.4s;
+  transform: translate3d(4px, 203px, 1748px);
+  background: hsl(81, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(78) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -15.6s;
+  transform: translate3d(693px, 541px, 1917px);
+  background: hsl(47, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(79) {
+  height: 16px;
+  width: 16px;
   animation-delay: -15.8s;
-  transform: translate3d(1000px, 576px, 795px);
-  background: hsl(252, 70%, 50%);
+  transform: translate3d(136px, 692px, 1249px);
+  background: hsl(217, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(80) {
-  height: 29px;
-  width: 29px;
+  height: 1px;
+  width: 1px;
   animation-delay: -16s;
-  transform: translate3d(776px, 706px, 350px);
-  background: hsl(300, 70%, 50%);
+  transform: translate3d(525px, 744px, 1172px);
+  background: hsl(27, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(81) {
   height: 8px;
   width: 8px;
   animation-delay: -16.2s;
-  transform: translate3d(6px, 559px, 1054px);
-  background: hsl(48, 70%, 50%);
+  transform: translate3d(831px, 423px, 1653px);
+  background: hsl(316, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(82) {
-  height: 14px;
-  width: 14px;
+  height: 17px;
+  width: 17px;
   animation-delay: -16.4s;
-  transform: translate3d(293px, 796px, 1188px);
-  background: hsl(355, 70%, 50%);
+  transform: translate3d(137px, 329px, 1359px);
+  background: hsl(117, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(83) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -16.6s;
-  transform: translate3d(618px, 352px, 12px);
-  background: hsl(50, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(84) {
-  height: 12px;
-  width: 12px;
-  animation-delay: -16.8s;
-  transform: translate3d(727px, 963px, 829px);
-  background: hsl(1, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(85) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -17s;
-  transform: translate3d(395px, 895px, 121px);
-  background: hsl(171, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(86) {
-  height: 10px;
-  width: 10px;
-  animation-delay: -17.2s;
-  transform: translate3d(932px, 196px, 147px);
-  background: hsl(29, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(87) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -17.4s;
-  transform: translate3d(810px, 762px, 1223px);
-  background: hsl(106, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(88) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -17.6s;
-  transform: translate3d(397px, 279px, 1647px);
-  background: hsl(300, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(89) {
-  height: 13px;
-  width: 13px;
-  animation-delay: -17.8s;
-  transform: translate3d(924px, 687px, 1288px);
-  background: hsl(202, 70%, 50%);
-}
-#main .main_right .bubble-container .bubble:nth-child(90) {
   height: 19px;
   width: 19px;
+  animation-delay: -16.6s;
+  transform: translate3d(477px, 182px, 1995px);
+  background: hsl(178, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(84) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -16.8s;
+  transform: translate3d(743px, 424px, 100px);
+  background: hsl(175, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(85) {
+  height: 12px;
+  width: 12px;
+  animation-delay: -17s;
+  transform: translate3d(459px, 292px, 1379px);
+  background: hsl(152, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(86) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -17.2s;
+  transform: translate3d(845px, 464px, 69px);
+  background: hsl(190, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(87) {
+  height: 29px;
+  width: 29px;
+  animation-delay: -17.4s;
+  transform: translate3d(842px, 493px, 84px);
+  background: hsl(178, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(88) {
+  height: 7px;
+  width: 7px;
+  animation-delay: -17.6s;
+  transform: translate3d(610px, 295px, 1897px);
+  background: hsl(324, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(89) {
+  height: 18px;
+  width: 18px;
+  animation-delay: -17.8s;
+  transform: translate3d(218px, 535px, 431px);
+  background: hsl(221, 70%, 50%);
+}
+#main .main_right .bubble-container .bubble:nth-child(90) {
+  height: 29px;
+  width: 29px;
   animation-delay: -18s;
-  transform: translate3d(626px, 449px, 320px);
-  background: hsl(240, 70%, 50%);
+  transform: translate3d(31px, 711px, 1189px);
+  background: hsl(357, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(91) {
-  height: 12px;
-  width: 12px;
+  height: 10px;
+  width: 10px;
   animation-delay: -18.2s;
-  transform: translate3d(701px, 488px, 1924px);
-  background: hsl(331, 70%, 50%);
+  transform: translate3d(507px, 840px, 1182px);
+  background: hsl(200, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(92) {
-  height: 5px;
-  width: 5px;
+  height: 25px;
+  width: 25px;
   animation-delay: -18.4s;
-  transform: translate3d(452px, 921px, 1311px);
-  background: hsl(325, 70%, 50%);
+  transform: translate3d(169px, 191px, 271px);
+  background: hsl(326, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(93) {
-  height: 22px;
-  width: 22px;
+  height: 5px;
+  width: 5px;
   animation-delay: -18.6s;
-  transform: translate3d(987px, 376px, 119px);
-  background: hsl(6, 70%, 50%);
+  transform: translate3d(571px, 894px, 629px);
+  background: hsl(261, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(94) {
-  height: 27px;
-  width: 27px;
+  height: 7px;
+  width: 7px;
   animation-delay: -18.8s;
-  transform: translate3d(154px, 399px, 1527px);
-  background: hsl(262, 70%, 50%);
+  transform: translate3d(492px, 174px, 143px);
+  background: hsl(203, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(95) {
-  height: 12px;
-  width: 12px;
+  height: 24px;
+  width: 24px;
   animation-delay: -19s;
-  transform: translate3d(359px, 229px, 615px);
-  background: hsl(157, 70%, 50%);
+  transform: translate3d(47px, 527px, 601px);
+  background: hsl(147, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(96) {
   height: 19px;
   width: 19px;
   animation-delay: -19.2s;
-  transform: translate3d(151px, 432px, 1582px);
-  background: hsl(135, 70%, 50%);
+  transform: translate3d(101px, 135px, 1737px);
+  background: hsl(145, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(97) {
-  height: 5px;
-  width: 5px;
+  height: 2px;
+  width: 2px;
   animation-delay: -19.4s;
-  transform: translate3d(998px, 246px, 989px);
-  background: hsl(241, 70%, 50%);
+  transform: translate3d(237px, 521px, 1702px);
+  background: hsl(309, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(98) {
-  height: 6px;
-  width: 6px;
+  height: 11px;
+  width: 11px;
   animation-delay: -19.6s;
-  transform: translate3d(233px, 202px, 707px);
-  background: hsl(62, 70%, 50%);
+  transform: translate3d(906px, 189px, 823px);
+  background: hsl(1, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(99) {
-  height: 8px;
-  width: 8px;
+  height: 6px;
+  width: 6px;
   animation-delay: -19.8s;
-  transform: translate3d(178px, 71px, 249px);
-  background: hsl(348, 70%, 50%);
+  transform: translate3d(510px, 250px, 367px);
+  background: hsl(144, 70%, 50%);
 }
 #main .main_right .bubble-container .bubble:nth-child(100) {
-  height: 14px;
-  width: 14px;
+  height: 15px;
+  width: 15px;
   animation-delay: -20s;
-  transform: translate3d(373px, 726px, 1190px);
-  background: hsl(112, 70%, 50%);
+  transform: translate3d(410px, 201px, 1593px);
+  background: hsl(172, 70%, 50%);
 }
 #main .main_right .main_img {
   display: block;
@@ -1322,704 +1322,704 @@ legend {
   animation: move 3s infinite;
 }
 #contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(1) {
-  height: 25px;
-  width: 25px;
+  height: 5px;
+  width: 5px;
   animation-delay: -0.2s;
-  transform: translate3d(321px, 8px, 1537px);
-  background: hsl(336, 70%, 50%);
+  transform: translate3d(969px, 851px, 69px);
+  background: hsl(356, 70%, 50%);
 }
 #contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(2) {
-  height: 26px;
-  width: 26px;
+  height: 23px;
+  width: 23px;
   animation-delay: -0.4s;
-  transform: translate3d(207px, 165px, 1701px);
-  background: hsl(292, 70%, 50%);
+  transform: translate3d(563px, 615px, 1851px);
+  background: hsl(246, 70%, 50%);
 }
 #contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(3) {
-  height: 7px;
-  width: 7px;
+  height: 6px;
+  width: 6px;
   animation-delay: -0.6s;
-  transform: translate3d(751px, 947px, 1516px);
-  background: hsl(342, 70%, 50%);
+  transform: translate3d(311px, 746px, 829px);
+  background: hsl(24, 70%, 50%);
 }
 #contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(4) {
-  height: 9px;
-  width: 9px;
+  height: 16px;
+  width: 16px;
   animation-delay: -0.8s;
-  transform: translate3d(172px, 846px, 563px);
-  background: hsl(172, 70%, 50%);
+  transform: translate3d(959px, 532px, 94px);
+  background: hsl(345, 70%, 50%);
 }
 #contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(5) {
-  height: 14px;
-  width: 14px;
+  height: 7px;
+  width: 7px;
   animation-delay: -1s;
-  transform: translate3d(555px, 560px, 1523px);
-  background: hsl(72, 70%, 50%);
+  transform: translate3d(99px, 132px, 1693px);
+  background: hsl(356, 70%, 50%);
 }
 #contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(6) {
-  height: 19px;
-  width: 19px;
+  height: 15px;
+  width: 15px;
   animation-delay: -1.2s;
-  transform: translate3d(360px, 527px, 1463px);
-  background: hsl(314, 70%, 50%);
+  transform: translate3d(148px, 204px, 1385px);
+  background: hsl(154, 70%, 50%);
 }
 #contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(7) {
-  height: 24px;
-  width: 24px;
+  height: 1px;
+  width: 1px;
   animation-delay: -1.4s;
-  transform: translate3d(195px, 20px, 599px);
-  background: hsl(243, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(8) {
-  height: 10px;
-  width: 10px;
-  animation-delay: -1.6s;
-  transform: translate3d(222px, 559px, 1197px);
-  background: hsl(336, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(9) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -1.8s;
-  transform: translate3d(677px, 278px, 561px);
-  background: hsl(252, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(10) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -2s;
-  transform: translate3d(684px, 935px, 431px);
+  transform: translate3d(255px, 602px, 116px);
   background: hsl(16, 70%, 50%);
 }
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(8) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -1.6s;
+  transform: translate3d(858px, 916px, 100px);
+  background: hsl(97, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(9) {
+  height: 4px;
+  width: 4px;
+  animation-delay: -1.8s;
+  transform: translate3d(416px, 97px, 928px);
+  background: hsl(251, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(10) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -2s;
+  transform: translate3d(172px, 586px, 832px);
+  background: hsl(45, 70%, 50%);
+}
 #contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(11) {
-  height: 17px;
-  width: 17px;
+  height: 30px;
+  width: 30px;
   animation-delay: -2.2s;
-  transform: translate3d(216px, 523px, 1224px);
-  background: hsl(103, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(12) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -2.4s;
-  transform: translate3d(703px, 849px, 232px);
-  background: hsl(285, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(13) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -2.6s;
-  transform: translate3d(540px, 655px, 1415px);
-  background: hsl(108, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(14) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -2.8s;
-  transform: translate3d(448px, 781px, 68px);
-  background: hsl(208, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(15) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -3s;
-  transform: translate3d(770px, 699px, 1596px);
-  background: hsl(27, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(16) {
-  height: 12px;
-  width: 12px;
-  animation-delay: -3.2s;
-  transform: translate3d(278px, 863px, 1862px);
-  background: hsl(342, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(17) {
-  height: 25px;
-  width: 25px;
-  animation-delay: -3.4s;
-  transform: translate3d(152px, 20px, 1488px);
+  transform: translate3d(796px, 78px, 1169px);
   background: hsl(171, 70%, 50%);
 }
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(18) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -3.6s;
-  transform: translate3d(104px, 917px, 325px);
-  background: hsl(218, 70%, 50%);
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(12) {
+  height: 30px;
+  width: 30px;
+  animation-delay: -2.4s;
+  transform: translate3d(221px, 292px, 1353px);
+  background: hsl(235, 70%, 50%);
 }
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(19) {
-  height: 10px;
-  width: 10px;
-  animation-delay: -3.8s;
-  transform: translate3d(95px, 610px, 795px);
-  background: hsl(163, 70%, 50%);
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(13) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -2.6s;
+  transform: translate3d(333px, 770px, 1088px);
+  background: hsl(64, 70%, 50%);
 }
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(20) {
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(14) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -2.8s;
+  transform: translate3d(637px, 352px, 59px);
+  background: hsl(275, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(15) {
   height: 18px;
   width: 18px;
+  animation-delay: -3s;
+  transform: translate3d(511px, 424px, 1606px);
+  background: hsl(105, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(16) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -3.2s;
+  transform: translate3d(717px, 723px, 962px);
+  background: hsl(296, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(17) {
+  height: 23px;
+  width: 23px;
+  animation-delay: -3.4s;
+  transform: translate3d(607px, 781px, 1191px);
+  background: hsl(247, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(18) {
+  height: 10px;
+  width: 10px;
+  animation-delay: -3.6s;
+  transform: translate3d(427px, 69px, 1541px);
+  background: hsl(89, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(19) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -3.8s;
+  transform: translate3d(752px, 441px, 427px);
+  background: hsl(352, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(20) {
+  height: 27px;
+  width: 27px;
   animation-delay: -4s;
-  transform: translate3d(243px, 548px, 1156px);
-  background: hsl(13, 70%, 50%);
+  transform: translate3d(542px, 865px, 703px);
+  background: hsl(29, 70%, 50%);
 }
 #contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(21) {
   height: 12px;
   width: 12px;
   animation-delay: -4.2s;
-  transform: translate3d(542px, 328px, 362px);
-  background: hsl(130, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(22) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -4.4s;
-  transform: translate3d(620px, 170px, 1040px);
-  background: hsl(119, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(23) {
-  height: 25px;
-  width: 25px;
-  animation-delay: -4.6s;
-  transform: translate3d(919px, 404px, 1482px);
-  background: hsl(243, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(24) {
-  height: 2px;
-  width: 2px;
-  animation-delay: -4.8s;
-  transform: translate3d(307px, 83px, 1696px);
-  background: hsl(219, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(25) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -5s;
-  transform: translate3d(387px, 466px, 1223px);
-  background: hsl(159, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(26) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -5.2s;
-  transform: translate3d(147px, 506px, 1657px);
-  background: hsl(221, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(27) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -5.4s;
-  transform: translate3d(860px, 96px, 1508px);
-  background: hsl(54, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(28) {
-  height: 30px;
-  width: 30px;
-  animation-delay: -5.6s;
-  transform: translate3d(667px, 809px, 1774px);
-  background: hsl(77, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(29) {
-  height: 12px;
-  width: 12px;
-  animation-delay: -5.8s;
-  transform: translate3d(639px, 589px, 1163px);
-  background: hsl(309, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(30) {
-  height: 28px;
-  width: 28px;
-  animation-delay: -6s;
-  transform: translate3d(356px, 768px, 1669px);
-  background: hsl(248, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(31) {
-  height: 22px;
-  width: 22px;
-  animation-delay: -6.2s;
-  transform: translate3d(938px, 342px, 1728px);
-  background: hsl(207, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(32) {
-  height: 11px;
-  width: 11px;
-  animation-delay: -6.4s;
-  transform: translate3d(992px, 326px, 1678px);
-  background: hsl(272, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(33) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -6.6s;
-  transform: translate3d(84px, 405px, 1372px);
-  background: hsl(339, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(34) {
-  height: 22px;
-  width: 22px;
-  animation-delay: -6.8s;
-  transform: translate3d(593px, 258px, 898px);
-  background: hsl(57, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(35) {
-  height: 7px;
-  width: 7px;
-  animation-delay: -7s;
-  transform: translate3d(135px, 189px, 45px);
-  background: hsl(41, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(36) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -7.2s;
-  transform: translate3d(376px, 52px, 1986px);
-  background: hsl(325, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(37) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -7.4s;
-  transform: translate3d(35px, 441px, 236px);
-  background: hsl(330, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(38) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -7.6s;
-  transform: translate3d(749px, 913px, 1726px);
-  background: hsl(94, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(39) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -7.8s;
-  transform: translate3d(25px, 628px, 1486px);
-  background: hsl(160, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(40) {
-  height: 13px;
-  width: 13px;
-  animation-delay: -8s;
-  transform: translate3d(215px, 103px, 1124px);
-  background: hsl(33, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(41) {
-  height: 30px;
-  width: 30px;
-  animation-delay: -8.2s;
-  transform: translate3d(321px, 900px, 1851px);
-  background: hsl(197, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(42) {
-  height: 25px;
-  width: 25px;
-  animation-delay: -8.4s;
-  transform: translate3d(435px, 47px, 1558px);
-  background: hsl(64, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(43) {
-  height: 5px;
-  width: 5px;
-  animation-delay: -8.6s;
-  transform: translate3d(272px, 499px, 45px);
-  background: hsl(286, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(44) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -8.8s;
-  transform: translate3d(418px, 754px, 825px);
-  background: hsl(37, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(45) {
-  height: 24px;
-  width: 24px;
-  animation-delay: -9s;
-  transform: translate3d(945px, 931px, 1647px);
-  background: hsl(213, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(46) {
-  height: 6px;
-  width: 6px;
-  animation-delay: -9.2s;
-  transform: translate3d(314px, 953px, 1075px);
-  background: hsl(196, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(47) {
-  height: 6px;
-  width: 6px;
-  animation-delay: -9.4s;
-  transform: translate3d(940px, 3px, 888px);
-  background: hsl(71, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(48) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -9.6s;
-  transform: translate3d(456px, 774px, 1144px);
-  background: hsl(347, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(49) {
-  height: 24px;
-  width: 24px;
-  animation-delay: -9.8s;
-  transform: translate3d(683px, 198px, 506px);
-  background: hsl(123, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(50) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -10s;
-  transform: translate3d(244px, 283px, 694px);
-  background: hsl(64, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(51) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -10.2s;
-  transform: translate3d(244px, 853px, 1972px);
-  background: hsl(158, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(52) {
-  height: 30px;
-  width: 30px;
-  animation-delay: -10.4s;
-  transform: translate3d(507px, 700px, 193px);
-  background: hsl(118, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(53) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -10.6s;
-  transform: translate3d(561px, 760px, 1916px);
-  background: hsl(96, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(54) {
-  height: 6px;
-  width: 6px;
-  animation-delay: -10.8s;
-  transform: translate3d(672px, 198px, 1691px);
-  background: hsl(130, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(55) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -11s;
-  transform: translate3d(849px, 141px, 1519px);
-  background: hsl(248, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(56) {
-  height: 10px;
-  width: 10px;
-  animation-delay: -11.2s;
-  transform: translate3d(948px, 310px, 1734px);
-  background: hsl(234, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(57) {
-  height: 29px;
-  width: 29px;
-  animation-delay: -11.4s;
-  transform: translate3d(749px, 3px, 1646px);
-  background: hsl(238, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(58) {
-  height: 1px;
-  width: 1px;
-  animation-delay: -11.6s;
-  transform: translate3d(297px, 280px, 1371px);
-  background: hsl(158, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(59) {
-  height: 26px;
-  width: 26px;
-  animation-delay: -11.8s;
-  transform: translate3d(579px, 167px, 481px);
-  background: hsl(61, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(60) {
-  height: 23px;
-  width: 23px;
-  animation-delay: -12s;
-  transform: translate3d(643px, 379px, 1795px);
-  background: hsl(218, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(61) {
-  height: 26px;
-  width: 26px;
-  animation-delay: -12.2s;
-  transform: translate3d(103px, 541px, 778px);
-  background: hsl(216, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(62) {
-  height: 13px;
-  width: 13px;
-  animation-delay: -12.4s;
-  transform: translate3d(438px, 820px, 163px);
-  background: hsl(22, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(63) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -12.6s;
-  transform: translate3d(922px, 683px, 1981px);
-  background: hsl(76, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(64) {
-  height: 5px;
-  width: 5px;
-  animation-delay: -12.8s;
-  transform: translate3d(125px, 618px, 1169px);
-  background: hsl(117, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(65) {
-  height: 25px;
-  width: 25px;
-  animation-delay: -13s;
-  transform: translate3d(719px, 874px, 1757px);
-  background: hsl(59, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(66) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -13.2s;
-  transform: translate3d(420px, 451px, 573px);
-  background: hsl(49, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(67) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -13.4s;
-  transform: translate3d(14px, 400px, 473px);
-  background: hsl(43, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(68) {
-  height: 6px;
-  width: 6px;
-  animation-delay: -13.6s;
-  transform: translate3d(393px, 359px, 1181px);
-  background: hsl(59, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(69) {
-  height: 30px;
-  width: 30px;
-  animation-delay: -13.8s;
-  transform: translate3d(595px, 579px, 910px);
-  background: hsl(287, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(70) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -14s;
-  transform: translate3d(452px, 858px, 720px);
-  background: hsl(244, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(71) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -14.2s;
-  transform: translate3d(915px, 477px, 32px);
-  background: hsl(298, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(72) {
-  height: 15px;
-  width: 15px;
-  animation-delay: -14.4s;
-  transform: translate3d(135px, 623px, 1839px);
-  background: hsl(127, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(73) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -14.6s;
-  transform: translate3d(616px, 924px, 910px);
-  background: hsl(245, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(74) {
-  height: 4px;
-  width: 4px;
-  animation-delay: -14.8s;
-  transform: translate3d(547px, 434px, 1809px);
-  background: hsl(87, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(75) {
-  height: 18px;
-  width: 18px;
-  animation-delay: -15s;
-  transform: translate3d(173px, 441px, 741px);
-  background: hsl(246, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(76) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -15.2s;
-  transform: translate3d(257px, 266px, 1061px);
-  background: hsl(357, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(77) {
-  height: 29px;
-  width: 29px;
-  animation-delay: -15.4s;
-  transform: translate3d(297px, 646px, 158px);
-  background: hsl(137, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(78) {
-  height: 8px;
-  width: 8px;
-  animation-delay: -15.6s;
-  transform: translate3d(364px, 232px, 1083px);
-  background: hsl(141, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(79) {
-  height: 6px;
-  width: 6px;
-  animation-delay: -15.8s;
-  transform: translate3d(843px, 101px, 830px);
-  background: hsl(96, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(80) {
-  height: 9px;
-  width: 9px;
-  animation-delay: -16s;
-  transform: translate3d(755px, 822px, 300px);
-  background: hsl(317, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(81) {
-  height: 16px;
-  width: 16px;
-  animation-delay: -16.2s;
-  transform: translate3d(482px, 851px, 439px);
-  background: hsl(203, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(82) {
-  height: 22px;
-  width: 22px;
-  animation-delay: -16.4s;
-  transform: translate3d(362px, 699px, 1141px);
-  background: hsl(132, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(83) {
-  height: 30px;
-  width: 30px;
-  animation-delay: -16.6s;
-  transform: translate3d(989px, 215px, 835px);
-  background: hsl(254, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(84) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -16.8s;
-  transform: translate3d(890px, 333px, 1848px);
-  background: hsl(305, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(85) {
-  height: 26px;
-  width: 26px;
-  animation-delay: -17s;
-  transform: translate3d(609px, 627px, 1122px);
-  background: hsl(342, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(86) {
-  height: 14px;
-  width: 14px;
-  animation-delay: -17.2s;
-  transform: translate3d(671px, 458px, 1525px);
-  background: hsl(80, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(87) {
-  height: 27px;
-  width: 27px;
-  animation-delay: -17.4s;
-  transform: translate3d(760px, 952px, 1688px);
-  background: hsl(220, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(88) {
-  height: 5px;
-  width: 5px;
-  animation-delay: -17.6s;
-  transform: translate3d(867px, 130px, 448px);
-  background: hsl(299, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(89) {
-  height: 26px;
-  width: 26px;
-  animation-delay: -17.8s;
-  transform: translate3d(820px, 886px, 780px);
-  background: hsl(131, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(90) {
-  height: 2px;
-  width: 2px;
-  animation-delay: -18s;
-  transform: translate3d(592px, 456px, 1973px);
-  background: hsl(343, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(91) {
-  height: 22px;
-  width: 22px;
-  animation-delay: -18.2s;
-  transform: translate3d(758px, 120px, 1737px);
-  background: hsl(86, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(92) {
-  height: 3px;
-  width: 3px;
-  animation-delay: -18.4s;
-  transform: translate3d(91px, 340px, 1696px);
-  background: hsl(300, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(93) {
-  height: 28px;
-  width: 28px;
-  animation-delay: -18.6s;
-  transform: translate3d(866px, 627px, 690px);
-  background: hsl(127, 70%, 50%);
-}
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(94) {
-  height: 5px;
-  width: 5px;
-  animation-delay: -18.8s;
-  transform: translate3d(322px, 496px, 105px);
+  transform: translate3d(1px, 755px, 1296px);
   background: hsl(30, 70%, 50%);
 }
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(95) {
-  height: 10px;
-  width: 10px;
-  animation-delay: -19s;
-  transform: translate3d(679px, 290px, 339px);
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(22) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -4.4s;
+  transform: translate3d(325px, 370px, 649px);
+  background: hsl(69, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(23) {
+  height: 24px;
+  width: 24px;
+  animation-delay: -4.6s;
+  transform: translate3d(491px, 91px, 1870px);
+  background: hsl(56, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(24) {
+  height: 30px;
+  width: 30px;
+  animation-delay: -4.8s;
+  transform: translate3d(79px, 325px, 1836px);
+  background: hsl(308, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(25) {
+  height: 23px;
+  width: 23px;
+  animation-delay: -5s;
+  transform: translate3d(140px, 250px, 1365px);
+  background: hsl(249, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(26) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -5.2s;
+  transform: translate3d(523px, 5px, 725px);
+  background: hsl(338, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(27) {
+  height: 6px;
+  width: 6px;
+  animation-delay: -5.4s;
+  transform: translate3d(426px, 151px, 313px);
   background: hsl(317, 70%, 50%);
 }
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(96) {
-  height: 17px;
-  width: 17px;
-  animation-delay: -19.2s;
-  transform: translate3d(614px, 470px, 1739px);
-  background: hsl(54, 70%, 50%);
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(28) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -5.6s;
+  transform: translate3d(646px, 635px, 916px);
+  background: hsl(223, 70%, 50%);
 }
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(97) {
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(29) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -5.8s;
+  transform: translate3d(820px, 700px, 887px);
+  background: hsl(62, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(30) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -6s;
+  transform: translate3d(683px, 383px, 921px);
+  background: hsl(71, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(31) {
+  height: 18px;
+  width: 18px;
+  animation-delay: -6.2s;
+  transform: translate3d(926px, 802px, 1761px);
+  background: hsl(58, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(32) {
   height: 9px;
   width: 9px;
-  animation-delay: -19.4s;
-  transform: translate3d(176px, 64px, 1816px);
-  background: hsl(315, 70%, 50%);
+  animation-delay: -6.4s;
+  transform: translate3d(428px, 362px, 1101px);
+  background: hsl(333, 70%, 50%);
 }
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(98) {
-  height: 21px;
-  width: 21px;
-  animation-delay: -19.6s;
-  transform: translate3d(361px, 599px, 1871px);
-  background: hsl(327, 70%, 50%);
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(33) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -6.6s;
+  transform: translate3d(131px, 484px, 926px);
+  background: hsl(176, 70%, 50%);
 }
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(99) {
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(34) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -6.8s;
+  transform: translate3d(667px, 696px, 1171px);
+  background: hsl(308, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(35) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -7s;
+  transform: translate3d(598px, 879px, 78px);
+  background: hsl(309, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(36) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -7.2s;
+  transform: translate3d(669px, 702px, 1925px);
+  background: hsl(243, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(37) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -7.4s;
+  transform: translate3d(471px, 620px, 1811px);
+  background: hsl(202, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(38) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -7.6s;
+  transform: translate3d(241px, 344px, 863px);
+  background: hsl(54, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(39) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -7.8s;
+  transform: translate3d(125px, 218px, 1527px);
+  background: hsl(229, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(40) {
   height: 8px;
   width: 8px;
-  animation-delay: -19.8s;
-  transform: translate3d(871px, 875px, 633px);
-  background: hsl(163, 70%, 50%);
+  animation-delay: -8s;
+  transform: translate3d(235px, 482px, 1528px);
+  background: hsl(165, 70%, 50%);
 }
-#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(100) {
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(41) {
+  height: 24px;
+  width: 24px;
+  animation-delay: -8.2s;
+  transform: translate3d(907px, 581px, 978px);
+  background: hsl(301, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(42) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -8.4s;
+  transform: translate3d(936px, 205px, 1159px);
+  background: hsl(258, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(43) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -8.6s;
+  transform: translate3d(903px, 531px, 1051px);
+  background: hsl(35, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(44) {
   height: 29px;
   width: 29px;
+  animation-delay: -8.8s;
+  transform: translate3d(802px, 943px, 1151px);
+  background: hsl(196, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(45) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -9s;
+  transform: translate3d(85px, 402px, 852px);
+  background: hsl(310, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(46) {
+  height: 4px;
+  width: 4px;
+  animation-delay: -9.2s;
+  transform: translate3d(807px, 503px, 620px);
+  background: hsl(290, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(47) {
+  height: 18px;
+  width: 18px;
+  animation-delay: -9.4s;
+  transform: translate3d(88px, 111px, 1199px);
+  background: hsl(346, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(48) {
+  height: 9px;
+  width: 9px;
+  animation-delay: -9.6s;
+  transform: translate3d(357px, 251px, 979px);
+  background: hsl(121, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(49) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -9.8s;
+  transform: translate3d(795px, 260px, 1717px);
+  background: hsl(131, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(50) {
+  height: 26px;
+  width: 26px;
+  animation-delay: -10s;
+  transform: translate3d(787px, 616px, 574px);
+  background: hsl(224, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(51) {
+  height: 29px;
+  width: 29px;
+  animation-delay: -10.2s;
+  transform: translate3d(745px, 526px, 1411px);
+  background: hsl(153, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(52) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -10.4s;
+  transform: translate3d(66px, 365px, 730px);
+  background: hsl(257, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(53) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -10.6s;
+  transform: translate3d(715px, 836px, 1227px);
+  background: hsl(67, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(54) {
+  height: 26px;
+  width: 26px;
+  animation-delay: -10.8s;
+  transform: translate3d(874px, 17px, 1737px);
+  background: hsl(135, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(55) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -11s;
+  transform: translate3d(971px, 557px, 618px);
+  background: hsl(324, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(56) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -11.2s;
+  transform: translate3d(728px, 106px, 1908px);
+  background: hsl(134, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(57) {
+  height: 23px;
+  width: 23px;
+  animation-delay: -11.4s;
+  transform: translate3d(124px, 348px, 764px);
+  background: hsl(268, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(58) {
+  height: 2px;
+  width: 2px;
+  animation-delay: -11.6s;
+  transform: translate3d(267px, 50px, 33px);
+  background: hsl(291, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(59) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -11.8s;
+  transform: translate3d(695px, 170px, 792px);
+  background: hsl(235, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(60) {
+  height: 25px;
+  width: 25px;
+  animation-delay: -12s;
+  transform: translate3d(679px, 687px, 1948px);
+  background: hsl(148, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(61) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -12.2s;
+  transform: translate3d(184px, 623px, 1884px);
+  background: hsl(203, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(62) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -12.4s;
+  transform: translate3d(946px, 954px, 825px);
+  background: hsl(211, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(63) {
+  height: 3px;
+  width: 3px;
+  animation-delay: -12.6s;
+  transform: translate3d(973px, 274px, 689px);
+  background: hsl(97, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(64) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -12.8s;
+  transform: translate3d(384px, 601px, 1776px);
+  background: hsl(264, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(65) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -13s;
+  transform: translate3d(995px, 443px, 199px);
+  background: hsl(348, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(66) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -13.2s;
+  transform: translate3d(843px, 957px, 1249px);
+  background: hsl(222, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(67) {
+  height: 21px;
+  width: 21px;
+  animation-delay: -13.4s;
+  transform: translate3d(771px, 985px, 734px);
+  background: hsl(318, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(68) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -13.6s;
+  transform: translate3d(601px, 50px, 840px);
+  background: hsl(320, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(69) {
+  height: 6px;
+  width: 6px;
+  animation-delay: -13.8s;
+  transform: translate3d(869px, 15px, 1679px);
+  background: hsl(267, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(70) {
+  height: 23px;
+  width: 23px;
+  animation-delay: -14s;
+  transform: translate3d(66px, 787px, 1717px);
+  background: hsl(116, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(71) {
+  height: 21px;
+  width: 21px;
+  animation-delay: -14.2s;
+  transform: translate3d(913px, 452px, 1570px);
+  background: hsl(7, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(72) {
+  height: 8px;
+  width: 8px;
+  animation-delay: -14.4s;
+  transform: translate3d(193px, 62px, 578px);
+  background: hsl(202, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(73) {
+  height: 5px;
+  width: 5px;
+  animation-delay: -14.6s;
+  transform: translate3d(618px, 852px, 640px);
+  background: hsl(144, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(74) {
+  height: 16px;
+  width: 16px;
+  animation-delay: -14.8s;
+  transform: translate3d(532px, 263px, 828px);
+  background: hsl(196, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(75) {
+  height: 14px;
+  width: 14px;
+  animation-delay: -15s;
+  transform: translate3d(430px, 345px, 1326px);
+  background: hsl(209, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(76) {
+  height: 11px;
+  width: 11px;
+  animation-delay: -15.2s;
+  transform: translate3d(344px, 798px, 1416px);
+  background: hsl(219, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(77) {
+  height: 30px;
+  width: 30px;
+  animation-delay: -15.4s;
+  transform: translate3d(872px, 14px, 1594px);
+  background: hsl(280, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(78) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -15.6s;
+  transform: translate3d(901px, 4px, 97px);
+  background: hsl(15, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(79) {
+  height: 25px;
+  width: 25px;
+  animation-delay: -15.8s;
+  transform: translate3d(401px, 281px, 1131px);
+  background: hsl(108, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(80) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -16s;
+  transform: translate3d(242px, 204px, 1201px);
+  background: hsl(246, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(81) {
+  height: 22px;
+  width: 22px;
+  animation-delay: -16.2s;
+  transform: translate3d(819px, 937px, 489px);
+  background: hsl(223, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(82) {
+  height: 6px;
+  width: 6px;
+  animation-delay: -16.4s;
+  transform: translate3d(58px, 293px, 1444px);
+  background: hsl(36, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(83) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -16.6s;
+  transform: translate3d(15px, 361px, 993px);
+  background: hsl(14, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(84) {
+  height: 28px;
+  width: 28px;
+  animation-delay: -16.8s;
+  transform: translate3d(702px, 903px, 149px);
+  background: hsl(188, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(85) {
+  height: 18px;
+  width: 18px;
+  animation-delay: -17s;
+  transform: translate3d(500px, 8px, 984px);
+  background: hsl(198, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(86) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -17.2s;
+  transform: translate3d(283px, 533px, 1315px);
+  background: hsl(74, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(87) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -17.4s;
+  transform: translate3d(101px, 458px, 188px);
+  background: hsl(328, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(88) {
+  height: 27px;
+  width: 27px;
+  animation-delay: -17.6s;
+  transform: translate3d(238px, 875px, 131px);
+  background: hsl(52, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(89) {
+  height: 13px;
+  width: 13px;
+  animation-delay: -17.8s;
+  transform: translate3d(393px, 393px, 1776px);
+  background: hsl(59, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(90) {
+  height: 17px;
+  width: 17px;
+  animation-delay: -18s;
+  transform: translate3d(688px, 621px, 109px);
+  background: hsl(261, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(91) {
+  height: 7px;
+  width: 7px;
+  animation-delay: -18.2s;
+  transform: translate3d(214px, 965px, 1204px);
+  background: hsl(126, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(92) {
+  height: 26px;
+  width: 26px;
+  animation-delay: -18.4s;
+  transform: translate3d(275px, 621px, 221px);
+  background: hsl(137, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(93) {
+  height: 19px;
+  width: 19px;
+  animation-delay: -18.6s;
+  transform: translate3d(494px, 861px, 373px);
+  background: hsl(258, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(94) {
+  height: 7px;
+  width: 7px;
+  animation-delay: -18.8s;
+  transform: translate3d(840px, 851px, 1173px);
+  background: hsl(355, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(95) {
+  height: 12px;
+  width: 12px;
+  animation-delay: -19s;
+  transform: translate3d(116px, 427px, 196px);
+  background: hsl(192, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(96) {
+  height: 1px;
+  width: 1px;
+  animation-delay: -19.2s;
+  transform: translate3d(341px, 752px, 1081px);
+  background: hsl(348, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(97) {
+  height: 8px;
+  width: 8px;
+  animation-delay: -19.4s;
+  transform: translate3d(467px, 763px, 1406px);
+  background: hsl(344, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(98) {
+  height: 5px;
+  width: 5px;
+  animation-delay: -19.6s;
+  transform: translate3d(606px, 888px, 725px);
+  background: hsl(10, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(99) {
+  height: 15px;
+  width: 15px;
+  animation-delay: -19.8s;
+  transform: translate3d(622px, 960px, 1593px);
+  background: hsl(263, 70%, 50%);
+}
+#contact .contact_container .contact_right .bubble-container2 .bubble:nth-child(100) {
+  height: 27px;
+  width: 27px;
   animation-delay: -20s;
-  transform: translate3d(163px, 535px, 175px);
-  background: hsl(284, 70%, 50%);
+  transform: translate3d(386px, 304px, 447px);
+  background: hsl(263, 70%, 50%);
 }
 #contact .contact_container .contact_right .contact_img {
   padding: 0 2% 1.5% 0;
@@ -2527,4 +2527,10 @@ legend {
 .swiper-horizontal .swiper-pagination-bullets .swiper-pagination-bullet,
 .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
   background: black;
+}
+
+@media screen and (max-width: 480px) {
+  * {
+    margin-top: 0.2%;
+  }
 }/*# sourceMappingURL=comm.css.map */
