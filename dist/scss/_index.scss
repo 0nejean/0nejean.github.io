@@ -155,13 +155,13 @@
   border: 1px solid var(--main-bg-color2);
   overflow: hidden;
   .about_top {
-    height: 65%;
+    height: 60%;
     .swiper {
       width: 100%;
       height: 100%;
       .swiper-slide {
         border: 1px solid var(--main-bg-color2);
-        margin-top: 4.0625rem;
+        margin-top: 2%;
         height: 25rem;
         background: #fff;
         display: flex;
@@ -173,8 +173,6 @@
         &:nth-child(2) {
           text-indent: -9999px;
           width: 50%;
-          // background: url(../images/s2_techstack_mobile.jpg) 100% 50% / cover
-          //   no-repeat;
         }
         &:nth-child(3) {
           width: 32%;
@@ -197,7 +195,7 @@
     }
   }
   .about_bottom {
-    height: 35%;
+    height: 40%;
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
@@ -205,14 +203,14 @@
       display: block;
       text-indent: -9999px;
       background: url(../images/aboutimage.png) 0 0 / cover no-repeat;
-      width: 31.25rem;
-      height: 18.75rem;
+      width: 500px;
+      height: 300px;
     }
     .about_pagelogo {
       margin: 0 3% 2% 0;
       text-transform: uppercase;
       font-family: Notable;
-      font-size: 4.375rem;
+      font-size: 3.125rem;
       font-weight: 400;
     }
   }
@@ -286,7 +284,7 @@
       margin: 0 3% 2% 0;
       text-transform: uppercase;
       font-family: Notable;
-      font-size: 4.375rem;
+      font-size: 3.125rem;
       font-weight: 400;
     }
   }
@@ -492,24 +490,47 @@
 
 //MacbookAir
 @media screen and (max-width: 1280px) {
+  #hook {
+    .hook_bottom {
+      .site_sign_top {
+        font-size: 0.8rem;
+      }
+    }
+  }
   #about {
     .about_top {
+      height: 65%;
       .swiper {
-        .swiper-slide:first-child {
-          width: 30%;
+        height: 95%;
+        .swiper-slide {
+          margin-top: 3%;
+          height: 20rem;
+          &:first-child {
+            width: 25%;
+          }
+          &:nth-child(2) {
+            width: 70%;
+          }
+          &:nth-child(3) {
+            width: 45%;
+          }
+          &:nth-child(4) {
+            width: 45%;
+          }
+          &:nth-child(5) {
+            width: 35%;
+          }
         }
-        .swiper-slide:nth-child(2) {
-          width: 80%;
-        }
-        .swiper-slide:nth-child(3) {
-          width: 50%;
-        }
-        .swiper-slide:nth-child(4) {
-          width: 50%;
-        }
-        .swiper-slide:nth-child(5) {
-          width: 40%;
-        }
+      }
+    }
+    .about_bottom {
+      height: 35%;
+      .about_img {
+        display: block;
+        text-indent: -9999px;
+        background: url(../images/aboutimage.png) 0 0 / cover no-repeat;
+        width: 450px;
+        height: 270px;
       }
     }
   }
@@ -519,6 +540,23 @@
         img {
           width: 252px;
           height: 210px;
+        }
+      }
+    }
+  }
+  #contact {
+    .contact_container {
+      .contact_left {
+        .salute {
+          .contact_salute {
+            font-size: 2.5rem;
+          }
+          .salute_line {
+            height: 6rem;
+          }
+        }
+        .contact_pagelogo {
+          font-size: 4.3rem;
         }
       }
     }
@@ -544,7 +582,6 @@
       }
     }
   }
-
   #main {
     .main_left {
       .main_name {
@@ -564,30 +601,23 @@
   #about {
     .about_top {
       .swiper {
-        .swiper-slide:first-child {
-          width: 35%;
+        .swiper-slide {
+          &:first-child {
+            width: 30%;
+          }
+          &:nth-child(2) {
+            width: 75%;
+          }
+          &:nth-child(3) {
+            width: 50%;
+          }
+          &:nth-child(4) {
+            width: 50%;
+          }
+          &:nth-child(5) {
+            width: 40%;
+          }
         }
-        .swiper-slide:nth-child(2) {
-          width: 100%;
-        }
-        .swiper-slide:nth-child(3) {
-          width: 60%;
-        }
-        .swiper-slide:nth-child(4) {
-          width: 60%;
-        }
-        .swiper-slide:nth-child(5) {
-          width: 50%;
-        }
-      }
-    }
-    .about_bottom {
-      .about_img {
-        width: 28.125rem;
-        height: 18.75rem;
-      }
-      .about_pagelogo {
-        font-size: 3.75rem;
       }
     }
   }
@@ -683,20 +713,22 @@
   #about {
     .about_top {
       .swiper {
-        .swiper-slide:first-child {
-          width: 50%;
-        }
-        .swiper-slide:nth-child(2) {
-          width: 120%;
-        }
-        .swiper-slide:nth-child(3) {
-          width: 80%;
-        }
-        .swiper-slide:nth-child(4) {
-          width: 80%;
-        }
-        .swiper-slide:nth-child(5) {
-          width: 60%;
+        .swiper-slide {
+          &:first-child {
+            width: 40%;
+          }
+          &:nth-child(2) {
+            width: 100%;
+          }
+          &:nth-child(3) {
+            width: 65%;
+          }
+          &:nth-child(4) {
+            width: 65%;
+          }
+          &:nth-child(5) {
+            width: 50%;
+          }
         }
       }
     }
@@ -769,95 +801,89 @@
 //MOBILE
 @media screen and (max-width: 480px) {
   #hook {
-    #header {
-      .nav {
+    .hook_top {
+      flex-direction: column-reverse;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      .hook_nav {
         .nav-bar_ul {
-          justify-content: space-around;
           .nav-bar_li {
-            padding: 0%;
+            padding: 7%;
           }
         }
       }
+      .hook_txt_container {
+        padding-top: 45%;
+        .hook_copy {
+          font-size: 2.5rem;
+        }
+        .hook_letter {
+          font-size: 0.57rem;
+        }
+      }
     }
-    .hook_copy {
-      font-size: 3rem;
-      top: 20%;
-      left: 12%;
-      text-align: center;
-    }
-    .hook_letter {
-      top: 21%;
-      font-size: 12px;
-      left: 12%;
-      text-align: center;
-    }
-    .hook_img {
-      width: 400px;
-      height: 300px;
-    }
-    #footer_top {
-      text-align: center;
-      font-size: 11.5px;
-      font-weight: 200;
-      padding: 30vh 0 0 0%;
+    .hook_bottom {
+      .site_sign_top {
+        font-size: 0.6rem;
+      }
     }
   }
   #main {
-    .main_name {
-      font-size: 55px;
-      left: 6%;
+    .main_left {
+      .main_name {
+        font-size: 2.7rem;
+      }
+      .main_portfolio {
+        position: absolute;
+        z-index: 1;
+        white-space: nowrap;
+        -webkit-text-stroke: 0.1rem var(--main-bg-color2);
+      }
     }
-    .main_portfolio {
-      font-size: 55px;
-      top: 19.5%;
-      left: 6%;
-    }
-    .main_img {
-      width: 400px;
-      height: 250px;
-      right: 7%;
-      bottom: 0%;
+    .main_right {
+      .main_img {
+        width: 450px;
+        height: 300px;
+      }
     }
   }
+
   #about {
     .about_top {
       .swiper {
-        .swiper-slide:first-child {
-          width: 80%;
-        }
-        .swiper-slide:nth-child(2) {
-          width: 180%;
-        }
-        .swiper-slide:nth-child(3) {
-          width: 120%;
-        }
-        .swiper-slide:nth-child(4) {
-          width: 120%;
-        }
-        .swiper-slide:nth-child(5) {
-          width: 90%;
-        }
-      }
-      .swiper-slide {
-        .s2_techstack {
-          position: relative;
-          &::before {
-            position: absolute;
-            z-index: 1;
-            content: "";
-            background: url(../images/s2_techstack_mobile.jpg) 50% 50% / cover
-              no-repeat;
+        .swiper-slide {
+          margin-top: 21%;
+          height: 300px;
+          &:first-child {
+            width: 65%;
+          }
+          &:nth-child(2) {
+            width: 150%;
+          }
+          &:nth-child(3) {
+            width: 100%;
+          }
+          &:nth-child(4) {
+            width: 100%;
+          }
+          &:nth-child(5) {
+            width: 70%;
           }
         }
       }
     }
     .about_bottom {
       .about_img {
-        width: 500px;
-        right: 43%;
+        width: 15rem;
+        height: 10rem;
+      }
+      .about_pagelogo {
+        font-size: 2.5rem;
       }
     }
   }
+
   #work {
     .work_top {
       .work_container {
@@ -870,161 +896,50 @@
     }
     .work_bottom {
       .work_img {
-        width: 500px;
-        left: -47%;
+        width: 15rem;
+        height: 10rem;
+      }
+      .about_pagelogo {
+        font-size: 2.5rem;
       }
     }
   }
   #contact {
-    .contact_salute {
-      font-size: 2rem;
-      left: 6%;
+    .contact_container {
+      .contact_left {
+        .contact_pagelogo {
+          z-index: 1;
+          white-space: nowrap;
+          font-size: 3rem;
+        }
+        .salute {
+          .salute_line {
+            margin: 2.5% -3%;
+          }
+        }
+      }
+      .contact_right {
+        .contact_img {
+          width: 470px;
+          height: 350px;
+        }
+      }
     }
-    .salute_line {
-      left: 36.3%;
-      height: 4.5rem;
-      width: 0.3rem;
-    }
-    .contact_pagelogo {
-      font-size: 50px;
-      left: 7%;
-      top: 37%;
-    }
-    .contact_img {
-      right: 7%;
-      width: 450px;
-      height: 350px;
-    }
-    #footer_bottom {
-      font-size: 10px;
-      line-height: 4.5;
+    .site_sign_bottom {
+      font-size: 9.5px;
     }
   }
 }
 
 @media screen and (max-width: 375px) {
   #hook {
-    height: 100vh;
-    .hook_copy {
-      font-size: 2.5rem;
-      top: 23%;
-    }
-    .hook_letter {
-      font-size: 0.625rem;
-      top: 24%;
-      left: 14%;
-    }
-    #footer_top {
-      font-size: 10.5px;
-    }
-    .hook_img {
-      width: 350px;
-      height: 250px;
-    }
   }
   #main {
-    height: 100vh;
-    .main_name {
-      font-size: 45px;
-    }
-    .main_portfolio {
-      font-size: 40px;
-      top: 21%;
-      left: 6%;
-      -webkit-text-stroke: 1.5px var(--main-bg-color2);
-    }
-    .main_img {
-      width: 350px;
-      height: 250px;
-    }
   }
   #about {
-    height: 100vh;
-    .about_top {
-      .swiper {
-        .swiper-slide:first-child {
-          width: 80%;
-          height: 80%;
-        }
-        .swiper-slide:nth-child(2) {
-          width: 180%;
-          height: 80%;
-        }
-        .swiper-slide:nth-child(3) {
-          width: 120%;
-          height: 80%;
-        }
-        .swiper-slide:nth-child(4) {
-          width: 120%;
-          height: 80%;
-        }
-        .swiper-slide:nth-child(5) {
-          width: 90%;
-          height: 80%;
-        }
-      }
-    }
-    .about_bottom {
-      .about_img {
-        width: 400px;
-        height: 300px;
-      }
-      .about_pagelogo {
-        font-size: 1.9rem;
-      }
-    }
   }
   #work {
-    height: 120vh;
-    .work_top {
-      margin: 0%;
-      .work_container {
-        column-gap: 0%;
-        h3 {
-          font-size: 14px;
-        }
-        .work4_lazuli {
-          margin-bottom: 0rem;
-        }
-        .work_link {
-          width: 6.375rem;
-          height: 0.375rem;
-          line-height: 7px;
-          padding: 0.625rem;
-          margin-top: 10px;
-        }
-      }
-    }
-    .work_bottom {
-      .work_img {
-        width: 410px;
-        height: 300px;
-        left: -55%;
-      }
-      .work_pagelogo {
-        font-size: 1.9rem;
-      }
-    }
   }
   #contact {
-    height: 100vh;
-    .contact_pagelogo {
-      font-size: 40px;
-      left: 7%;
-      -webkit-text-stroke: 1.5px;
-      -webkit-text-stroke-color: var(--main-font-color);
-    }
-    .salute_line {
-      left: 43.9%;
-    }
-    .contact_img {
-      right: 0%;
-      width: 400px;
-      height: 300px;
-    }
-    #footer_bottom {
-      font-size: 8px;
-      line-height: 4.5;
-    }
   }
 }
