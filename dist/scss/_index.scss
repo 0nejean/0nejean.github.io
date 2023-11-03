@@ -692,7 +692,11 @@
         }
       }
       .hook_txt_container {
-        padding: 20% 0 0 10%;
+        padding: 0;
+        padding-top: 20%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         .hook_copy {
           font-size: 3.5rem;
         }
@@ -813,7 +817,7 @@
     margin-top: 2%;
     .hook_top {
       .hook_txt_container {
-        padding: 37% 0 0 5%;
+        padding-top: 40%;
         .hook_copy {
           font-size: 2.5rem;
         }
@@ -943,7 +947,7 @@
   #hook {
     .hook_top {
       .hook_txt_container {
-        padding: 37% 0 0 3%;
+        padding-top: 50%;
         .hook_copy {
           font-size: 2rem;
         }
