@@ -895,6 +895,7 @@
   }
 
   #work {
+    height: 100vh;
     margin-top: 2%;
     .work_top {
       .work_container {
@@ -945,6 +946,7 @@
 
 @media screen and (max-width: 375px) {
   #hook {
+    height: 100vh;
     .hook_top {
       .hook_txt_container {
         padding-top: 50%;
@@ -1025,7 +1027,7 @@
     }
   }
   #work {
-    height: 100vh;
+    height: 115vh;
     .work_top {
       margin: 0%;
       .work_container {
