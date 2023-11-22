@@ -129,11 +129,7 @@
           height: $size;
           width: $size;
           animation-delay: -$i * 0.2s;
-          transform: translate3d(
-            (random(1000) * 1px),
-            (random(1000) * 1px),
-            (random(2000) * 1px)
-          );
+          transform: translate3d((random(1000) * 1px), (random(1000) * 1px), (random(2000) * 1px));
           background: hsl(random(360), 70%, 50%);
         }
       }
@@ -155,7 +151,7 @@
   border: 1px solid var(--main-bg-color2);
   overflow: hidden;
   .about_top {
-    height: 60%;
+    height: 73%;
     .swiper {
       width: 100%;
       height: 100%;
@@ -195,7 +191,7 @@
     }
   }
   .about_bottom {
-    height: 40%;
+    height: 27%;
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
@@ -203,8 +199,8 @@
       display: block;
       text-indent: -9999px;
       background: url(../images/aboutimage.png) 0 0 / cover no-repeat;
-      width: 500px;
-      height: 300px;
+      width: 350px;
+      height: 200px;
     }
     .about_pagelogo {
       margin: 0 3% 2% 0;
@@ -277,8 +273,8 @@
       display: block;
       text-indent: -9999px;
       background: url(../images/workimage.png) 0 0 / cover no-repeat;
-      width: 31.25rem;
-      height: 18.75rem;
+      width: 400px;
+      height: 250px;
     }
     .work_pagelogo {
       margin: 0 3% 2% 0;
@@ -373,11 +369,7 @@
             height: $size;
             width: $size;
             animation-delay: -$i * 0.2s;
-            transform: translate3d(
-              (random(1000) * 1px),
-              (random(1000) * 1px),
-              (random(2000) * 1px)
-            );
+            transform: translate3d((random(1000) * 1px), (random(1000) * 1px), (random(2000) * 1px));
             background: hsl(random(360), 70%, 50%);
           }
         }
@@ -499,7 +491,7 @@
   }
   #about {
     .about_top {
-      height: 65%;
+      height: 70%;
       .swiper {
         height: 95%;
         .swiper-slide {
@@ -524,13 +516,13 @@
       }
     }
     .about_bottom {
-      height: 35%;
+      height: 30%;
       .about_img {
         display: block;
         text-indent: -9999px;
         background: url(../images/aboutimage.png) 0 0 / cover no-repeat;
-        width: 450px;
-        height: 270px;
+        width: 370px;
+        height: 200px;
       }
     }
   }
